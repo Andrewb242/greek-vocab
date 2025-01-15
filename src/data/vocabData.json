@@ -1,0 +1,1822 @@
+{
+    "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5","Chapter 6"],
+    "chapter1": [
+      {
+        "greek": "ἀγορά, ἀγορᾶς",
+        "english": "marketplace",
+        "transliteration": "agora",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "οἰκία, οἰκίας",
+        "english": "house",
+        "transliteration": "oikia",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "σοφία, σοφίας",
+        "english": "wisdom",
+        "transliteration": "sophia",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "συμφορά, συμφορᾶς",
+        "english": "circumstance; misfortune, disaster",
+        "transliteration": "symphora",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "χώρα, χώρας",
+        "english": "land; country",
+        "transliteration": "chora",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "βουλή, βουλῆς",
+        "english": "will; plan; council; advice",
+        "transliteration": "boule",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "γνώμη, γνώμης",
+        "english": "judgment; spirit; inclination; opinion",
+        "transliteration": "gnome",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "δίκη, δίκης",
+        "english": "justice",
+        "transliteration": "dike",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "εἰρήνη, εἰρήνης",
+        "english": "peace",
+        "transliteration": "eirene",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "Ἑλένη, Ἑλένης",
+        "english": "Helen",
+        "transliteration": "Helen",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "ψυχή, ψυχῆς",
+        "english": "soul; life force",
+        "transliteration": "psyche",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "Ἀλέξανδρος, Ἀλεξάνδρου",
+        "english": "Alexander",
+        "transliteration": "Alexandros",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "ἄνθρωπος, ἀνθρώπου",
+        "english": "human being, man",
+        "transliteration": "anthropos",
+        "speechPart": "noun",
+        "gender": "masculine/feminine",
+        "declension": "second"
+      },
+      {
+        "greek": "ἑταῖρος, ἑταίρου",
+        "english": "companion",
+        "transliteration": "hetairos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "θεός, θεοῦ",
+        "english": "god; goddess",
+        "transliteration": "theos",
+        "speechPart": "noun",
+        "gender": "masculine/feminine",
+        "declension": "second"
+      },
+      {
+        "greek": "λόγος, λόγου",
+        "english": "word; speech; argument",
+        "transliteration": "logos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "νῆσος, νήσου",
+        "english": "island",
+        "transliteration": "nesos",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "second"
+      },
+      {
+        "greek": "νόμος, νόμου",
+        "english": "custom; law",
+        "transliteration": "nomos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "ὁδός, ὁδοῦ",
+        "english": "road, path; journey; way",
+        "transliteration": "hodos",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "second"
+      },
+      {
+        "greek": "πόλεμος, πολέμου",
+        "english": "war",
+        "transliteration": "polemos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "Πρίαμος, Πριάμου",
+        "english": "Priam",
+        "transliteration": "Priamos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "ἔργον, ἔργου",
+        "english": "task, work; deed",
+        "transliteration": "ergon",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "second"
+      },
+      {
+        "greek": "ζῷον, ζῴου",
+        "english": "living being; animal",
+        "transliteration": "zoon",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "second"
+      },
+      {
+        "greek": "ὅπλον, ὅπλου",
+        "english": "tool; pl., arms, weapons",
+        "transliteration": "hoplon",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "second"
+      },
+      {
+        "greek": "τέκνον, τέκνου",
+        "english": "child",
+        "transliteration": "teknon",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "second"
+      },
+      {
+        "greek": "εἰς, ἐς",
+        "english": "to, toward; into; against; with a view to; extending",
+        "transliteration": "eis, es",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἐκ, ἐξ",
+        "english": "from, out of; resulting from; in accordance with",
+        "transliteration": "ek, ex",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἐν",
+        "english": "in, among, in the presence of",
+        "transliteration": "en",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "καί",
+        "english": "and; both ... and ...",
+        "transliteration": "kai",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "δέ",
+        "english": "even, also",
+        "transliteration": "de",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὁ, ἡ, τό",
+        "english": "the",
+        "transliteration": "ho, he, to",
+        "speechPart": "article",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "περί",
+        "english": "concerning, about; around",
+        "transliteration": "peri",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "σύν/ξύν",
+        "english": "with; with the aid of; in accordance with",
+        "transliteration": "syn/xyn",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὦ",
+        "english": "O",
+        "transliteration": "o",
+        "speechPart": "interjection",
+        "gender": null,
+        "declension": null
+      }
+    ],
+    "chapter2": [
+        {
+          "greek": "αἰτία, αἰτίας",
+          "english": "cause; responsibility",
+          "transliteration": "aitia",
+          "speechPart": "noun",
+          "gender": "feminine",
+          "declension": "first"
+        },
+        {
+          "greek": "ἀρχή, ἀρχῆς",
+          "english": "beginning; (supreme) power, rule; empire",
+          "transliteration": "arche",
+          "speechPart": "noun",
+          "gender": "feminine",
+          "declension": "first"
+        },
+        {
+          "greek": "δόξα, δόξης",
+          "english": "opinion, belief; reputation; glory; expectation",
+          "transliteration": "doxa",
+          "speechPart": "noun",
+          "gender": "feminine",
+          "declension": "first"
+        },
+        {
+          "greek": "θάλαττα, θαλάττης",
+          "english": "sea",
+          "transliteration": "thalatta",
+          "speechPart": "noun",
+          "gender": "feminine",
+          "declension": "first"
+        },
+        {
+          "greek": "ἀλήθεια, ἀληθείας",
+          "english": "truth",
+          "transliteration": "aletheia",
+          "speechPart": "noun",
+          "gender": "feminine",
+          "declension": "first"
+        },
+        {
+          "greek": "μοῖρα, μοίρας",
+          "english": "fate",
+          "transliteration": "moira",
+          "speechPart": "noun",
+          "gender": "feminine",
+          "declension": "first"
+        },
+        {
+          "greek": "Γοργίας, Γοργίου",
+          "english": "Gorgias",
+          "transliteration": "Gorgias",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "first"
+        },
+        {
+          "greek": "νεανίας, νεανίου",
+          "english": "young man",
+          "transliteration": "neanias",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "first"
+        },
+        {
+          "greek": "Ἅιδης, Ἅιδου",
+          "english": "Hades",
+          "transliteration": "Hades",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "first"
+        },
+        {
+          "greek": "Ἀτρείδης, Ἀτρείδου",
+          "english": "Atreides, son of Atreus",
+          "transliteration": "Atreides",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "first"
+        },
+        {
+          "greek": "Εὐριπίδης, Εὐριπίδου",
+          "english": "Euripides",
+          "transliteration": "Euripides",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "first"
+        },
+        {
+          "greek": "ποιητής, ποιητοῦ",
+          "english": "maker; poet",
+          "transliteration": "poietes",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "first"
+        },
+        {
+          "greek": "πολίτης, πολίτου",
+          "english": "citizen",
+          "transliteration": "polites",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "first"
+        },
+        {
+          "greek": "δῆμος, δήμου",
+          "english": "people",
+          "transliteration": "demos",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "second"
+        },
+        {
+          "greek": "φόβος, φόβου",
+          "english": "fear",
+          "transliteration": "phobos",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "second"
+        },
+        {
+          "greek": "οὗτος, αὕτη, τοῦτο",
+          "english": "this; pl. these",
+          "transliteration": "houtos, haute, touto",
+          "speechPart": "pronoun",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἀγαθός, ἀγαθή, ἀγαθόν",
+          "english": "good",
+          "transliteration": "agathos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "Ἀθηναῖος, Ἀθηναία, Ἀθηναῖον",
+          "english": "Athenian; masc. pl. subst., Athenians",
+          "transliteration": "Athenaios",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "δεινός, δεινή, δεινόν",
+          "english": "fearsome, terrible; marvelous; strange; clever",
+          "transliteration": "deinos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "δίκαιος, δικαία, δίκαιον",
+          "english": "right; just",
+          "transliteration": "dikaios",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἐχθρός, ἐχθρά, ἐχθρόν",
+          "english": "hated, hateful; hostile; masc. subst., enemy",
+          "transliteration": "echthros",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "κακός, κακή, κακόν",
+          "english": "evil",
+          "transliteration": "kakos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "καλός, καλή, καλόν",
+          "english": "beautiful; noble; fine",
+          "transliteration": "kalos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "Λακεδαιμόνιος, -ία, -ιον",
+          "english": "Lacedaemonian, Spartan; masc. pl. subst., Lacedaemonians",
+          "transliteration": "Lakedaimonios",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "μόνος, μόνη, μόνον",
+          "english": "only, alone",
+          "transliteration": "monos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "σοφός, σοφή, σοφόν",
+          "english": "wise",
+          "transliteration": "sophos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "φίλος, φίλη, φίλον",
+          "english": "beloved, dear; loving; friendly; friend; loved one",
+          "transliteration": "philos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἄδικος, ἄδικον",
+          "english": "unjust",
+          "transliteration": "adikos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἀθάνατος, ἀθάνατον",
+          "english": "deathless, immortal",
+          "transliteration": "athanatos",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἀλλά",
+          "english": "but",
+          "transliteration": "alla",
+          "speechPart": "conjunction",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἀπό",
+          "english": "from",
+          "transliteration": "apo",
+          "speechPart": "preposition",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "διά",
+          "english": "through; on account of, because of",
+          "transliteration": "dia",
+          "speechPart": "preposition",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἤ",
+          "english": "or; either...or...",
+          "transliteration": "e",
+          "speechPart": "conjunction",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "μή",
+          "english": "not",
+          "transliteration": "me",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "μόνον",
+          "english": "only",
+          "transliteration": "monon",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "οὐ, οὐκ, οὐχ",
+          "english": "not",
+          "transliteration": "ou, ouk, ouch",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "οὐ/μὴ μόνον... ἀλλὰ καί",
+          "english": "not only... but also...",
+          "transliteration": "ou/me monon... alla kai",
+          "speechPart": "phrase",
+          "gender": null,
+          "declension": null
+        }
+    ],
+    "chapter3": [
+      {
+        "greek": "γαῖα, γαίας",
+        "english": "earth; land",
+        "transliteration": "gaia",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "γῆ, γῆς",
+        "english": "earth; land",
+        "transliteration": "ge",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "ξένος, ξένου",
+        "english": "host, guest, guest-friend; stranger; foreigner",
+        "transliteration": "xenos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "οὐρανός, οὐρανοῦ",
+        "english": "sky; heaven",
+        "transliteration": "ouranos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "πόνος, πόνου",
+        "english": "labor, toil; distress, suffering",
+        "transliteration": "ponos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "σύμμαχος, συμμάχου",
+        "english": "ally",
+        "transliteration": "symmachos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "αἰσχρός, αἰσχρά, αἰσχρόν",
+        "english": "disgraceful, shameful; ugly",
+        "transliteration": "aischros",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "κοινός, κοινή, κοινόν",
+        "english": "common (to), shared (with); (+ gen. or dat.); public",
+        "transliteration": "koinos",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἄρχω",
+        "english": "rule (+ gen.); middle, begin (+ gen.)",
+        "transliteration": "archo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἄρχω",
+          "future": "ἄρξω",
+          "aorist": "ἦρξα",
+          "perfect": "ἦργμαι",
+          "aoristPassive": "ἤρχθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "διδάσκω",
+        "english": "teach; explain; middle, cause (someone) to be taught",
+        "transliteration": "didasko",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "διδάσκω",
+          "future": "διδάξω",
+          "aorist": "ἐδίδαξα",
+          "perfect": "δεδίδαχα",
+          "perfectMiddle": "δεδίδαγμαι",
+          "aoristPassive": "ἐδιδάχθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἐθέλω/θέλω",
+        "english": "be willing, want, wish",
+        "transliteration": "ethelo/thelo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἐθέλω/θέλω",
+          "future": "ἐθελήσω",
+          "aorist": "ἠθέλησα",
+          "perfect": "ἠθέληκα",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "λέγω",
+        "english": "say, speak (of), tell (of), recount",
+        "transliteration": "lego",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "λέγω",
+          "future": "λέξω",
+          "aorist": "ἔλεξα/εἶπον",
+          "perfect": "—",
+          "perfectMiddle": "λέλεγμαι",
+          "aoristPassive": "ἐλέχθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "μέλλω",
+        "english": "be about, be likely (+ inf.)",
+        "transliteration": "mello",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "μέλλω",
+          "future": "μελλήσω",
+          "aorist": "ἐμέλλησα",
+          "perfect": "—",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "παύω",
+        "english": "stop (trans.); middle, stop (intrans.), cease",
+        "transliteration": "pauo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "παύω",
+          "future": "παύσω",
+          "aorist": "ἔπαυσα",
+          "perfect": "πέπαυκα",
+          "perfectMiddle": "πέπαυμαι",
+          "aoristPassive": "ἐπαύθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πείθω",
+        "english": "persuade; middle, obey; heed; believe (+ dat.)",
+        "transliteration": "peitho",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "πείθω",
+          "future": "πείσω",
+          "aorist": "ἔπεισα",
+          "perfect": "πέπεικα",
+          "perfectMiddle": "πέπεισμαι",
+          "aoristPassive": "ἐπείσθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πέμπω",
+        "english": "send",
+        "transliteration": "pempo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "πέμπω",
+          "future": "πέμψω",
+          "aorist": "ἔπεμψα",
+          "perfect": "πέπομφα",
+          "perfectMiddle": "πέπεμμαι",
+          "aoristPassive": "ἐπέμφθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἆρα",
+        "english": "introduces a question",
+        "transliteration": "ara",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "γάρ",
+        "english": "explanatory; for; confirming, indeed, in fact",
+        "transliteration": "gar",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "δέ",
+        "english": "but; and; connective, and",
+        "transliteration": "de",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "εὖ",
+        "english": "well",
+        "transliteration": "eu",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "μέν",
+        "english": "on the one hand; μέν...δέ... = on the one hand...on the other hand...; ..., but...",
+        "transliteration": "men",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "νῦν",
+        "english": "now",
+        "transliteration": "nun",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πολλάκις",
+        "english": "many times, often",
+        "transliteration": "pollakis",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πότε",
+        "english": "when",
+        "transliteration": "pote",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πρός",
+        "english": "from, by; in the name of; toward; against; in reply to; in the face of; in relation to",
+        "transliteration": "pros",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πῶς",
+        "english": "how",
+        "transliteration": "pos",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὑπό",
+        "english": "under; by; at the hands of; under; under the power of; under; during",
+        "transliteration": "hypo",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      }
+    ],
+    "chapter4": [
+      {
+        "greek": "ἀρετή, ἀρετῆς",
+        "english": "excellence; valor; virtue",
+        "transliteration": "arete",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "νίκη, νίκης",
+        "english": "victory",
+        "transliteration": "nike",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "τύχη, τύχης",
+        "english": "chance, fortune",
+        "transliteration": "tyche",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "Ἑρμῆς, Ἑρμοῦ",
+        "english": "Hermes",
+        "transliteration": "Hermes",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "first"
+      },
+      {
+        "greek": "βίος, βίου",
+        "english": "life; livelihood",
+        "transliteration": "bios",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "βροτός, βροτοῦ",
+        "english": "mortal",
+        "transliteration": "brotos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "θάνατος, θανάτου",
+        "english": "death",
+        "transliteration": "thanatos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "υἱός, υἱοῦ",
+        "english": "son",
+        "transliteration": "huios",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "ἔχω",
+        "english": "have, hold; inhabit; occupy; intrans., be able (+ inf.); be (+ adv.); middle, hold on to, cling to (+ gen.)",
+        "transliteration": "echo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἔχω",
+          "future": "ἕξω/σχήσω",
+          "aorist": "ἔσχον",
+          "perfect": "ἔσχηκα",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἀδικέω",
+        "english": "(do) wrong (to); injure",
+        "transliteration": "adikeo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἀδικέω",
+          "future": "ἀδικήσω",
+          "aorist": "ἠδίκησα",
+          "perfect": "ἠδίκηκα",
+          "perfectMiddle": "ἠδίκημαι",
+          "aoristPassive": "ἠδικήθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ποιέω",
+        "english": "make; do; middle, make; do; deem, consider",
+        "transliteration": "poieo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ποιέω",
+          "future": "ποιήσω",
+          "aorist": "ἐποίησα",
+          "perfect": "πεποίηκα",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πολεμέω",
+        "english": "make war (upon), be at war (with) (+ dat.); quarrel; pass., hostile, be treated as an enemy, have war made upon (oneself)",
+        "transliteration": "polemeo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "πολεμέω",
+          "future": "πολεμήσω",
+          "aorist": "ἐπολέμησα",
+          "perfect": "πεπολέμηκα",
+          "perfectMiddle": "—",
+          "aoristPassive": "ἐπολεμήθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "φιλέω",
+        "english": "love, like; be accustomed, be fond of (+ inf.)",
+        "transliteration": "phileo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "φιλέω",
+          "future": "φιλήσω",
+          "aorist": "ἐφίλησα",
+          "perfect": "πεφίληκα",
+          "perfectMiddle": "πεφίλημαι",
+          "aoristPassive": "ἐφιλήθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "νικάω",
+        "english": "conquer, defeat; prevail (over), win",
+        "transliteration": "nikao",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "νικάω",
+          "future": "νικήσω",
+          "aorist": "ἐνίκησα",
+          "perfect": "νενίκηκα",
+          "perfectMiddle": "νενίκημαι",
+          "aoristPassive": "ἐνικήθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "τελευτάω",
+        "english": "accomplish, end, finish; die",
+        "transliteration": "teleutao",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "τελευτάω",
+          "future": "τελευτήσω",
+          "aorist": "ἐτελεύτησα",
+          "perfect": "τετελεύτηκα",
+          "perfectMiddle": "—",
+          "aoristPassive": "ἐτελευτήθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "τιμάω",
+        "english": "honor; middle, value, deem worthy",
+        "transliteration": "timao",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "τιμάω",
+          "future": "τιμήσω",
+          "aorist": "ἐτίμησα",
+          "perfect": "τετίμηκα",
+          "perfectMiddle": "τετίμημαι",
+          "aoristPassive": "ἐτιμήθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἀξιόω",
+        "english": "think worthy; think (it) right; expect; require",
+        "transliteration": "axioo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἀξιόω",
+          "future": "ἀξιώσω",
+          "aorist": "ἠξίωσα",
+          "perfect": "ἠξίωκα",
+          "perfectMiddle": "ἠξίωμαι",
+          "aoristPassive": "ἠξιώθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "δηλόω",
+        "english": "show, make clear, reveal",
+        "transliteration": "deloo",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "δηλόω",
+          "future": "δηλώσω",
+          "aorist": "ἐδήλωσα",
+          "perfect": "δεδήλωκα",
+          "perfectMiddle": "δεδήλωμαι",
+          "aoristPassive": "ἐδηλώθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἐκεῖνος, ἐκείνη, ἐκεῖνο",
+        "english": "that; those",
+        "transliteration": "ekeinos",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὅδε, ἥδε, τόδε",
+        "english": "this; pl., these",
+        "transliteration": "hode",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "μέγας, μεγάλη, μέγα",
+        "english": "great, big",
+        "transliteration": "megas",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "νέος, νέα, νέον",
+        "english": "new; young",
+        "transliteration": "neos",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὀλίγος, ὀλίγη, ὀλίγον",
+        "english": "little, small; pl., few",
+        "transliteration": "oligos",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πολέμιος, πολεμία, πολέμιον",
+        "english": "of an enemy, hostile; masc. subst., enemy",
+        "transliteration": "polemios",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πολύς, πολλή, πολύ",
+        "english": "much, many",
+        "transliteration": "polys",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πονηρός, πονηρά, πονηρόν",
+        "english": "worthless; wicked",
+        "transliteration": "poneros",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "χαλεπός, χαλεπή, χαλεπόν",
+        "english": "severe, harsh; difficult",
+        "transliteration": "chalepos",
+        "speechPart": "adjective",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "δή",
+        "english": "certainly, indeed, of course",
+        "transliteration": "de",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἐπί",
+        "english": "on, upon; in, on; in addition to; for (i.e., because of); on condition of; to; against; for (the purpose of)",
+        "transliteration": "epi",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "μετά",
+        "english": "(along) with; with the aid of; in accordance with; after",
+        "transliteration": "meta",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "οὕτω(ς)",
+        "english": "in this way, thus, so",
+        "transliteration": "houto(s)",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὧδε",
+        "english": "in this way, so; in the following way",
+        "transliteration": "hode",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      }
+    ],
+    "chapter5": [
+      {
+        "greek": "ἀνάγκη",
+        "english": "necessity",
+        "transliteration": "anankē",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "μαθητής",
+        "english": "student",
+        "transliteration": "mathētēs",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "first"
+      },
+      {
+        "greek": "τέχνη",
+        "english": "skill, art",
+        "transliteration": "technē",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "διδάσκαλος",
+        "english": "teacher",
+        "transliteration": "didaskalos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "ἄρχων",
+        "english": "ruler, commander; archon, magistrate",
+        "transliteration": "archōn",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "δαίμων",
+        "english": "divinity, divine power; spirit",
+        "transliteration": "daimōn",
+        "speechPart": "noun",
+        "gender": "masculine/feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "Ἕκτωρ",
+        "english": "Hector",
+        "transliteration": "Hektōr",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "Ἕλλην",
+        "english": "Greek",
+        "transliteration": "Hellēn",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "ἐλπίς",
+        "english": "hope; expectation",
+        "transliteration": "elpis",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "ἔρως",
+        "english": "desire, passion, love",
+        "transliteration": "erōs",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "Ζεύς",
+        "english": "Zeus",
+        "transliteration": "Zeus",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "παῖς",
+        "english": "child; slave",
+        "transliteration": "pais",
+        "speechPart": "noun",
+        "gender": "masculine/feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "ῥήτωρ",
+        "english": "public speaker, orator",
+        "transliteration": "rhētōr",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "φρήν",
+        "english": "heart, mind, wits",
+        "transliteration": "phrēn",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "χάρις",
+        "english": "grace, favor, goodwill; delight; gratitude",
+        "transliteration": "charis",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "δόμα",
+        "english": "house, home",
+        "transliteration": "doma",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "third"
+      },
+      {
+        "greek": "σῶμα",
+        "english": "body",
+        "transliteration": "sōma",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "third"
+      },
+      {
+        "greek": "χρῆμα",
+        "english": "thing, matter, affair; pl., goods, property, money",
+        "transliteration": "chrēma",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "third"
+      },
+      {
+        "greek": "ὅς",
+        "english": "who, whose, whom; which, that",
+        "transliteration": "hos",
+        "speechPart": "pronoun",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "βάρβαρος",
+        "english": "non-Greek, foreign; barbarous",
+        "transliteration": "barbaros",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "θνητός",
+        "english": "mortal",
+        "transliteration": "thnētos",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ῥᾴδιος",
+        "english": "easy",
+        "transliteration": "rhaidios",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ἄγω",
+        "english": "lead, bring; keep; middle, carry away with oneself; marry",
+        "transliteration": "agō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἄγω",
+          "future": "ἄξω",
+          "aorist": "ἤγαγον",
+          "perfect": "ἦχα",
+          "perfectMiddle": "ἦγμαι",
+          "aoristPassive": "ἤχθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἀκούω",
+        "english": "listen (to), hear (of)",
+        "transliteration": "akouō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἀκούω",
+          "future": "ἀκούσομαι",
+          "aorist": "ἤκουσα",
+          "perfect": "ἀκήκοα",
+          "perfectMiddle": "ἀκήκοον",
+          "aoristPassive": "ἠκούσθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἥκω",
+        "english": "have come; be present",
+        "transliteration": "hēkō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἥκω",
+          "future": "ἥξω",
+          "aorist": "—",
+          "perfect": "—",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "μανθάνω",
+        "english": "learn; understand",
+        "transliteration": "manthanō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "μανθάνω",
+          "future": "μαθήσομαι",
+          "aorist": "ἔμαθον",
+          "perfect": "μεμάθηκα",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "δεῖ",
+        "english": "it is necessary, must; there is need",
+        "transliteration": "dei",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "δεῖ",
+          "future": "δεήσει",
+          "aorist": "ἔδεγσε(ν)",
+          "perfect": "—",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "εἰμί",
+        "english": "be; exist; it is possible",
+        "transliteration": "eimi",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "εἰμί",
+          "future": "ἔσομαι",
+          "aorist": "—",
+          "perfect": "—",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἀεί",
+        "english": "always",
+        "transliteration": "aei",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ποτέ",
+        "english": "at some time, ever",
+        "transliteration": "pote",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "οὔποτε",
+        "english": "never",
+        "transliteration": "oupote",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πως",
+        "english": "somehow",
+        "transliteration": "pōs",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "γε",
+        "english": "limiting, at least, at any rate; emphasizing, indeed",
+        "transliteration": "ge",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "μά",
+        "english": "used in oaths; by",
+        "transliteration": "ma",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "νή",
+        "english": "expresses strong affirmation, (yes), by",
+        "transliteration": "nē",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πέρ",
+        "english": "very, even",
+        "transliteration": "per",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "τε",
+        "english": "and",
+        "transliteration": "te",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "τοι",
+        "english": "surely, you know",
+        "transliteration": "toi",
+        "speechPart": "particle",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "κατά",
+        "english": "down from, beneath; against; according to; in relation to; throughout",
+        "transliteration": "kata",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "παρά",
+        "english": "from (the side of); by; near; at (the house of); among; to (the side of), beside; contrary to",
+        "transliteration": "para",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "χάριν",
+        "english": "for the sake of",
+        "transliteration": "charin",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      }
+    ],
+    "chapter6": [
+      {
+        "greek": "Ἀθῆναι",
+        "english": "Athens",
+        "transliteration": "Athēnai",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "δεσπότης",
+        "english": "master, lord; absolute ruler",
+        "transliteration": "despotēs",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "first"
+      },
+      {
+        "greek": "ἐλευθερία",
+        "english": "freedom",
+        "transliteration": "eleutheria",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "first"
+      },
+      {
+        "greek": "δοῦλος",
+        "english": "slave",
+        "transliteration": "doulos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "ἀγών",
+        "english": "contest; struggle",
+        "transliteration": "agōn",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "ἀνήρ",
+        "english": "man; husband",
+        "transliteration": "anēr",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "ἐγώ",
+        "english": "I; me",
+        "transliteration": "egō",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἡμεῖς",
+        "english": "we; us",
+        "transliteration": "hēmeis",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "σύ",
+        "english": "you",
+        "transliteration": "su",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "αὐτοί",
+        "english": "them",
+        "transliteration": "autoi",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "αὐτός",
+        "english": "-self, very; same",
+        "transliteration": "autos",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἐμός",
+        "english": "my",
+        "transliteration": "emos",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἡμέτερος",
+        "english": "our",
+        "transliteration": "hēmeteros",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὅδε",
+        "english": "this, the following; correct, right; yours; your",
+        "transliteration": "hode",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὑμέτερος",
+        "english": "your (pl.)",
+        "transliteration": "humeteros",
+        "speechPart": "pronoun",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "δῆλος",
+        "english": "clear",
+        "transliteration": "dēlos",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ἀδῆλος",
+        "english": "unclear",
+        "transliteration": "adēlos",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ἐλεύθερος",
+        "english": "free",
+        "transliteration": "eleutheros",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "χρηστός",
+        "english": "useful; good",
+        "transliteration": "chrēstos",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "πᾶς",
+        "english": "all, every; whole",
+        "transliteration": "pas",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ἅπας",
+        "english": "(quite) all, every; whole",
+        "transliteration": "hapas",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ἄνευ",
+        "english": "without",
+        "transliteration": "aneu",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὅτι",
+        "english": "that; because",
+        "transliteration": "hoti",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "οὖν",
+        "english": "then, therefore",
+        "transliteration": "oun",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "οὔτε",
+        "english": "neither...nor...",
+        "transliteration": "oute",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πόθεν",
+        "english": "from where",
+        "transliteration": "pothen",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ποῖ",
+        "english": "to where",
+        "transliteration": "poi",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ποῦ",
+        "english": "where",
+        "transliteration": "pou",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὡς",
+        "english": "that; as",
+        "transliteration": "hōs",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὥσπερ",
+        "english": "just as",
+        "transliteration": "hōsper",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὑπέρ",
+        "english": "over; on behalf of; beyond",
+        "transliteration": "huper",
+        "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      }
+    ]
+  }

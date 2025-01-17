@@ -6,6 +6,7 @@
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.2",
     "react-scripts": "5.0.1"
   },
   "scripts": {
@@ -16,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://andrewb2277.github.io/greek-vocab",
+  "homepage": "https://andrewb242.github.io/greek-vocab",
   "eslintConfig": {
     "extends": [
       "react-app",

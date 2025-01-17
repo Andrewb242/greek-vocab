@@ -1,0 +1,98 @@
+.verb-chart {
+    margin: 50px 5%;
+    min-height: 100vh;
+}
+
+.verb-chart-title-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.verb-chart-color-key-container {
+    border-radius: 2px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: 1px solid #DDDDDD;
+}
+
+.verb-chart-color-key {
+    padding: 5px;
+    font-weight: bold;
+    width: 200px;
+    color: #EEEEEE;
+}
+.verb-chart-color-key.p {
+    background-color: blue;
+}
+.verb-chart-color-key.f {
+    background-color: orange;
+}
+.verb-chart-color-key.a {
+    background-color: red;
+}
+.verb-chart-color-key.P {
+    background-color: green;
+}
+.verb-chart-color-key.Pm {
+    background-color: purple;
+}
+.verb-chart-color-key.ap {
+    background-color: brown;
+}
+
+
+.verb-table-header {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); /* Adjust the number of columns */
+}
+
+.verb-table-header-text {
+    color: #284b63;
+    font-weight: bold;
+    border: 1px solid #284b63; 
+    text-align: center;
+}
+
+.verb-table-bg {
+    background-color: #DDDDDD;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.verb-table {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr); 
+}
+
+.verb-table-row {
+    display: contents; 
+}
+
+.verb-table-row-label {
+    color: #284b63;
+    font-weight: 600;
+    border: 1px solid #284b63; 
+    text-align: center;
+}
+
+.verb-table-square {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #284b63; 
+    text-align: center;
+}
+
+.verb-table-square.p {
+    color: blue;
+}
+
+.verb-table-square.f {
+    color: orange;
+}
+
+.verb-table-square.a {
+    color: red;
+}

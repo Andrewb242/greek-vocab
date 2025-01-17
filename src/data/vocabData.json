@@ -1,5 +1,5 @@
 {
-    "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5","Chapter 6"],
+    "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5","Chapter 6", "Chapter 7"],
     "chapter1": [
       {
         "greek": "ἀγορά, ἀγορᾶς",
@@ -1815,6 +1815,360 @@
         "english": "over; on behalf of; beyond",
         "transliteration": "huper",
         "speechPart": "preposition",
+        "gender": null,
+        "declension": null
+      }
+    ],
+    "chapter7": [
+      {
+        "greek": "νοῦς",
+        "english": "mind; sense; thought",
+        "transliteration": "nous",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "πλοῦτος",
+        "english": "wealth",
+        "transliteration": "ploutos",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "second"
+      },
+      {
+        "greek": "γένος",
+        "english": "race, descent; family; sort, kind",
+        "transliteration": "genos",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "third"
+      },
+      {
+        "greek": "γυνή",
+        "english": "woman; wife",
+        "transliteration": "gunē",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "Δημοσθένης",
+        "english": "Demosthenes",
+        "transliteration": "Dēmosthenēs",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "δύναμις",
+        "english": "power; ability",
+        "transliteration": "dunamis",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "Ἑλλάς",
+        "english": "Hellas, Greece",
+        "transliteration": "Hellas",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "ἔπος",
+        "english": "word; pl., lines (of verse), epic poetry",
+        "transliteration": "epos",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "third"
+      },
+      {
+        "greek": "μήτηρ",
+        "english": "mother",
+        "transliteration": "mētēr",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "πάθος",
+        "english": "experience; suffering; passion",
+        "transliteration": "pathos",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "third"
+      },
+      {
+        "greek": "πατήρ",
+        "english": "father",
+        "transliteration": "patēr",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "πόλις",
+        "english": "city",
+        "transliteration": "polis",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "πρᾶγμα",
+        "english": "deed; matter, thing; pl., affairs; troubles",
+        "transliteration": "pragma",
+        "speechPart": "noun",
+        "gender": "neuter",
+        "declension": "third"
+      },
+      {
+        "greek": "Σωκράτης",
+        "english": "Socrates",
+        "transliteration": "Sōkratēs",
+        "speechPart": "noun",
+        "gender": "masculine",
+        "declension": "third"
+      },
+      {
+        "greek": "ὕβρις",
+        "english": "insolence; (wanton) violence",
+        "transliteration": "hubris",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "φύσις",
+        "english": "nature",
+        "transliteration": "phusis",
+        "speechPart": "noun",
+        "gender": "feminine",
+        "declension": "third"
+      },
+      {
+        "greek": "ζηλόω",
+        "english": "emulate; envy; passive, be deemed fortunate",
+        "transliteration": "zēloō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ζηλόω",
+          "future": "ζηλώσω",
+          "aorist": "ἐζήλωσα",
+          "perfect": "ἐζήλωκα",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πάρειμι",
+        "english": "be present, be near; be ready",
+        "transliteration": "pareimi",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "πάρειμι",
+          "future": "παρέσομαι",
+          "aorist": "—",
+          "perfect": "—",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πάσχω",
+        "english": "suffer; experience",
+        "transliteration": "paschō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "πάσχω",
+          "future": "πείσομαι",
+          "aorist": "ἔπαθον",
+          "perfect": "πέπονθα",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "πράττω",
+        "english": "do; bring about; practice; manage; fare",
+        "transliteration": "prattō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "πράττω",
+          "future": "πράξω",
+          "aorist": "ἔπραξα",
+          "perfect": "πέπραχα/πέπρᾱγα",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "προσέχω",
+        "english": "hold to; turn to; apply; νοῦν/γνώμην προσέχειν, to pay attention",
+        "transliteration": "prosechō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "προσέχω",
+          "future": "προσέξω",
+          "aorist": "προσέσχον",
+          "perfect": "—",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "χαίρω",
+        "english": "rejoice (in), enjoy",
+        "transliteration": "chairō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "χαίρω",
+          "future": "χαιρήσω",
+          "aorist": "—",
+          "perfect": "κεχάρηκα",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἀποπέμπω",
+        "english": "send away; middle, send away from oneself",
+        "transliteration": "apopempō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἀποπέμπω",
+          "future": "ἀποπέμψω",
+          "aorist": "ἀπέπεμψα",
+          "perfect": "—",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "διαλέγομαι",
+        "english": "talk (with), converse (with) (+ dat.); discuss (with)",
+        "transliteration": "dialegomai",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "διαλέγομαι",
+          "future": "διαλέξομαι",
+          "aorist": "—",
+          "perfect": "—",
+          "perfectMiddle": "—",
+          "aoristPassive": "—"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἕκαστος",
+        "english": "each (of several)",
+        "transliteration": "hekastos",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ἀληθής",
+        "english": "true, real; truthful",
+        "transliteration": "alēthēs",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "σαφής",
+        "english": "clear, plain; certain, sure",
+        "transliteration": "saphēs",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ψευδής",
+        "english": "false",
+        "transliteration": "pseudēs",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
+        "greek": "ὄντως",
+        "english": "really, actually",
+        "transliteration": "ontōs",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ποθέν",
+        "english": "from somewhere",
+        "transliteration": "pothen",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ποι",
+        "english": "to somewhere",
+        "transliteration": "poi",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "που",
+        "english": "somewhere; I suppose",
+        "transliteration": "pou",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "τότε",
+        "english": "then, at that time",
+        "transliteration": "tote",
+        "speechPart": "adverb",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "οὐδέ",
+        "english": "and not, nor",
+        "transliteration": "oude",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "οὐδέποτε",
+        "english": "and not ever, never ever",
+        "transliteration": "oudepote",
+        "speechPart": "conjunction",
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὡς ἔπος εἰπεῖν",
+        "english": "so to speak; practically",
+        "transliteration": "hōs epos eipein",
+        "speechPart": "phrase",
         "gender": null,
         "declension": null
       }

@@ -17,7 +17,7 @@ function Search() {
         : [...prevState, chapter]
     );
 
-    setCurrentDictionary([]); // Reset current dictionary when chapters change
+    setCurrentDictionary([]);
   };
 
   const handleSearch = (event) => {

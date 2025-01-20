@@ -1,0 +1,134 @@
+{
+    "Active": {
+        "present": {
+            "indicative": ["ω", "εις", "ει", "ομεν", "ετε", "ουσι"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["ειν"],
+            "participle": ["ων", "ουσα", "ον"]
+        },
+        "imperfect": {
+            "indicative": ["ον", "ες", "ε", "ομεν", "ετε", "ον"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["ομην", "ου", "ετο", "ομεθα", "εσθε", "οντο"],
+            "participle": []
+        },
+        "future": {
+            "indicative": ["ω", "εις", "ει", "ομεν", "ετε", "ουσι"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["ειν"],
+            "participle": []
+        },
+        "aorist": {
+            "indicative": ["α", "ας", "ε", "αμεν", "ατε", "αν"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["αι"],
+            "participle": ["ας", "ασα", "αν"]
+        },
+        "perfect": {
+            "indicative": [],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": [],
+            "participle": []
+        },
+        "pluperfect": {
+            "indicative": [],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": [],
+            "participle": []
+        }
+    },
+    "Middle": {
+        "present": {
+            "indicative": ["ομαι", "η/εσθε", "εται", "ομεθα", "εσθε", "ονται"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["εσθαι"],
+            "participle": ["ομενος", "ομενη", "ομενον"]
+        },
+        "imperfect": {
+            "indicative": ["ομην", "ου", "ετο", "ομεθα", "εσθε", "οντο"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": [],
+            "participle": []
+        },
+        "future": {
+            "indicative": ["ομαι", "η/εσθε", "εται", "ομεθα", "εσθε", "ονται"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["εσθαι"],
+            "participle": []
+        },
+        "aorist": {
+            "indicative": ["αμην", "ω", "ατο", "αμεθα", "ασθε", "αντο"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["ασθαι"],
+            "participle": ["ομενος", "ομενη", "ομενον"]
+        },
+        "perfect": {
+            "indicative": [],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": [],
+            "participle": []
+        },
+        "pluperfect": {
+            "indicative": [],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": [],
+            "participle": []
+        }
+    },
+    "Passive": {
+        "present": {
+            "indicative": ["ομαι", "ῃ", "εται", "ομεθα", "εσθε", "ονται"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["εσθαι"],
+            "participle": ["ομενος", "ομενη", "ομενον"]
+        },
+        "imperfect": {
+            "indicative": ["ομην", "ου", "ετο", "ομεθα", "εσθε", "οντο"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": [],
+            "participle": []
+        },
+        "future": {
+            "indicative": ["ησομαι", "ησομεθα", "ησῃ", "ησεσθε", "ησεται", "ησονται"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["ησεσθαι"],
+            "participle": []
+        },
+        "aorist": {
+            "indicative": ["ην", "ης", "η", "ημεν", "ητε", "ησαν"],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": ["ηναι"],
+            "participle": ["εις", "εισα", "εν"]
+        },
+        "perfect": {
+            "indicative": [],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": [],
+            "participle": []
+        },
+        "pluperfect": {
+            "indicative": [],
+            "subjunctive": [],
+            "imperative": [],
+            "infinitive": [],
+            "participle": []
+        }
+    }
+}

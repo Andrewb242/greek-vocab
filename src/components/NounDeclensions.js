@@ -25,29 +25,29 @@ export default function NounDeclensions() {
           <tr>
             <td>Nominative / Vocative</td>
             <td>-ᾱ</td>
-            <td>-η</td>
             <td>-αι</td>
+            <td>-η</td>
             <td>-αι</td>
           </tr>
           <tr>
             <td>Genitive</td>
             <td>-ᾱς</td>
-            <td>-ης</td>
             <td>-ων</td>
+            <td>-ης</td>
             <td>-ων</td>
           </tr>
           <tr>
             <td>Dative</td>
             <td>-ᾳ</td>
-            <td>-ῃ</td>
             <td>-αις</td>
+            <td>-ῃ</td>
             <td>-αις</td>
           </tr>
           <tr>
             <td>Accusative</td>
             <td>-ᾱν</td>
-            <td>-ην</td>
             <td>-ας</td>
+            <td>-ην</td>
             <td>-ας</td>
           </tr>
         </tbody>

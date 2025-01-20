@@ -96,3 +96,13 @@
 .verb-table-square.a {
     color: red;
 }
+
+.verb-table-square.P {
+    color: green;
+}
+.verb-table-square.Pm {
+    color: purple;
+}
+.verb-table-square.ap {
+    color: brown;
+}

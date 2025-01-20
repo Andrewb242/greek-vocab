@@ -4,15 +4,17 @@ import Search from './components/Search';
 import Navbar from './components/Navbar';
 import VerbChart from './components/VerbChart';
 import NounDeclensions from './components/NounDeclensions';
+import VocabGame from './components/VocabGame';
 
 function App() {
   return (
     <Router basename='/greek-vocab'>
       <Navbar/>
       <Routes>
-        <Route path='/dictionary' element={<Search/>}/>
+        <Route path='/' element={<Search/>}/>
         <Route path='/verb-chart' element={<VerbChart/>}/>
         <Route path='/noun' element={<NounDeclensions/>}/>
+        <Route path='/vocab-game' element={<VocabGame/>}/>
       </Routes>
     </Router>
   );

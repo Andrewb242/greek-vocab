@@ -1691,6 +1691,94 @@
         "declension": null
       },
       {
+        "greek": "βούλομαι",
+        "english": "want, wish",
+        "transliteration": "boulomai",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "βούλομαι",
+          "future": "βουλήσομαι",
+          "aorist": "ἐβουλήθην",
+          "perfect": "βεβούλημαι",
+          "perfectMiddle": "βεβούλημαι",
+          "aoristPassive": "ἐβουλήθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "γίγνομαι",
+        "english": "become; happen; arise, be born",
+        "transliteration": "gignomai",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "γίγνομαι",
+          "future": "γενήσομαι",
+          "aorist": "ἐγενόμην",
+          "perfect": "γέγονα",
+          "perfectMiddle": "γεγένημαι",
+          "aoristPassive": null
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "δέχομαι",
+        "english": "accept, receive; welcome",
+        "transliteration": "dechomai",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "δέχομαι",
+          "future": "δέξομαι",
+          "aorist": "ἐδεξάμην",
+          "perfect": null,
+          "perfectMiddle": "δέδεγμαι",
+          "aoristPassive": "ἐδέχθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ἔρχομαι",
+        "english": "go, come",
+        "transliteration": "erchomai",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ἔρχομαι",
+          "future": "ἐλεύσομαι",
+          "aorist": "ἦλθον",
+          "perfect": "ἐλήλυθα",
+          "perfectMiddle": null,
+          "aoristPassive": null
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὁράω",
+        "english": "see",
+        "transliteration": "horaō",
+        "speechPart": "verb",
+        "principalParts": {
+          "present": "ὁράω",
+          "future": "ὄψομαι",
+          "aorist": "εἶδον",
+          "perfect": "ἑώρακα/ἑόρακα",
+          "perfectMiddle": "ἑώραμαι/ὦμμαι",
+          "aoristPassive": "ὤφθην"
+        },
+        "gender": null,
+        "declension": null
+      },
+      {
+        "greek": "ὀρθός",
+        "english": "straight; correct",
+        "transliteration": "orthos",
+        "speechPart": "adjective",
+        "gender": "masculine",
+        "declension": null
+      },
+      {
         "greek": "δῆλος",
         "english": "clear",
         "transliteration": "dēlos",

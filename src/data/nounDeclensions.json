@@ -1,0 +1,167 @@
+{
+  "first": {
+    "title": "1st Declension",
+    "variants": [
+      {
+        "name": "Long alpha",
+        "cases": {
+          "nominative": {
+            "singular": "-ᾱ",
+            "plural": "-αι"
+          },
+          "genitive": {
+            "singular": "-ᾱς",
+            "plural": "-ων"
+          },
+          "dative": {
+            "singular": "-ᾳ",
+            "plural": "-αις"
+          },
+          "accusative": {
+            "singular": "-ᾱν",
+            "plural": "-ας"
+          },
+          "vocative": {
+            "singular": "-ᾱ",
+            "plural": "-αι"
+          }
+        }
+      },
+      {
+        "name": "Eta",
+        "cases": {
+          "nominative": {
+            "singular": "-η",
+            "plural": "-αι"
+          },
+          "genitive": {
+            "singular": "-ης",
+            "plural": "-ων"
+          },
+          "dative": {
+            "singular": "-ῃ",
+            "plural": "-αις"
+          },
+          "accusative": {
+            "singular": "-ην",
+            "plural": "-ας"
+          },
+          "vocative": {
+            "singular": "-η",
+            "plural": "-αι"
+          }
+        }
+      }
+    ]
+  },
+  "second": {
+    "title": "2nd Declension",
+    "variants": [
+      {
+        "name": "Masc./Fem.",
+        "cases": {
+          "nominative": {
+            "singular": "-ος",
+            "plural": "-οι"
+          },
+          "genitive": {
+            "singular": "-ου",
+            "plural": "-ων"
+          },
+          "dative": {
+            "singular": "-ῳ",
+            "plural": "-οις"
+          },
+          "accusative": {
+            "singular": "-ον",
+            "plural": "-ους"
+          },
+          "vocative": {
+            "singular": "-ε",
+            "plural": "-οι"
+          }
+        }
+      },
+      {
+        "name": "Neuter",
+        "cases": {
+          "nominative": {
+            "singular": "-ον",
+            "plural": "-α"
+          },
+          "genitive": {
+            "singular": "-ου",
+            "plural": "-ων"
+          },
+          "dative": {
+            "singular": "-ῳ",
+            "plural": "-οις"
+          },
+          "accusative": {
+            "singular": "-ον",
+            "plural": "-α"
+          },
+          "vocative": {
+            "singular": "-ον",
+            "plural": "-α"
+          }
+        }
+      }
+    ]
+  },
+  "third": {
+    "title": "3rd Declension",
+    "variants": [
+      {
+        "name": "Masc./Fem.",
+        "cases": {
+          "nominative": {
+            "singular": "---",
+            "plural": "-ες"
+          },
+          "genitive": {
+            "singular": "-ος",
+            "plural": "-ων"
+          },
+          "dative": {
+            "singular": "-ι",
+            "plural": "-σι(ν)"
+          },
+          "accusative": {
+            "singular": "-α / -ν",
+            "plural": "-ας"
+          },
+          "vocative": {
+            "singular": "---",
+            "plural": "-ες"
+          }
+        }
+      },
+      {
+        "name": "Neuter",
+        "cases": {
+          "nominative": {
+            "singular": "---",
+            "plural": "-α"
+          },
+          "genitive": {
+            "singular": "-ος",
+            "plural": "-ων"
+          },
+          "dative": {
+            "singular": "-ι",
+            "plural": "-σι(ν)"
+          },
+          "accusative": {
+            "singular": "---",
+            "plural": "-α"
+          },
+          "vocative": {
+            "singular": "---",
+            "plural": "-α"
+          }
+        }
+      }
+    ]
+  }
+}

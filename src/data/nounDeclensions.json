@@ -1,4 +1,84 @@
 {
+  "article": {
+  "title": "Definite Article",
+  "variants": [
+    {
+      "name": "Masculine",
+      "cases": {
+        "nominative": {
+          "singular": "ὁ",
+          "plural": "οἱ"
+        },
+        "genitive": {
+          "singular": "τοῦ",
+          "plural": "τῶν"
+        },
+        "dative": {
+          "singular": "τῷ",
+          "plural": "τοῖς"
+        },
+        "accusative": {
+          "singular": "τὸν",
+          "plural": "τοὺς"
+        },
+        "vocative": {
+          "singular": "ὦ",
+          "plural": "ὦ"
+        }
+      }
+    },
+    {
+      "name": "Feminine",
+      "cases": {
+        "nominative": {
+          "singular": "ἡ",
+          "plural": "αἱ"
+        },
+        "genitive": {
+          "singular": "τῆς",
+          "plural": "τῶν"
+        },
+        "dative": {
+          "singular": "τῇ",
+          "plural": "ταῖς"
+        },
+        "accusative": {
+          "singular": "τὴν",
+          "plural": "τὰς"
+        },
+        "vocative": {
+          "singular": "ὦ",
+          "plural": "ὦ"
+        }
+      }
+    },
+    {
+      "name": "Neuter",
+      "cases": {
+        "nominative": {
+          "singular": "τό",
+          "plural": "τά"
+        },
+        "genitive": {
+          "singular": "τοῦ",
+          "plural": "τῶν"
+        },
+        "dative": {
+          "singular": "τῷ",
+          "plural": "τοῖς"
+        },
+        "accusative": {
+          "singular": "τό",
+          "plural": "τά"
+        },
+        "vocative": {
+          "singular": "ὦ",
+          "plural": "ὦ"
+        }
+        }
+      }
+    ]
+  },
   "first": {
     "title": "1st Declension",
     "variants": [
@@ -53,6 +133,116 @@
         }
       }
     ]
+  },
+  "firstShortAlpha": {
+    "title": "1st Declension",
+    "variants": [
+      {
+        "name": "Short alpha",
+        "cases": {
+          "nominative": {
+            "singular": "-α",
+            "plural": "-αι"
+          },
+          "genitive": {
+            "singular": "-ας",
+            "plural": "-ων"
+          },
+          "dative": {
+            "singular": "-ᾳ",
+            "plural": "-αις"
+          },
+          "accusative": {
+            "singular": "-αν",
+            "plural": "-ας"
+          },
+          "vocative": {
+            "singular": "-α",
+            "plural": "-αι"
+          }
+        }
+      },
+      {
+        "name": "",
+        "cases": {
+          "nominative": {
+            "singular": "-α",
+            "plural": "-αι"
+          },
+          "genitive": {
+            "singular": "-ης",
+            "plural": "-ων"
+          },
+          "dative": {
+            "singular": "-ῃ",
+            "plural": "-αις"
+          },
+          "accusative": {
+            "singular": "-ην",
+            "plural": "-ας"
+          },
+          "vocative": {
+            "singular": "-α",
+            "plural": "-αι"
+          }
+        }
+      }
+    ]
+  },
+  "firstMasculine": {
+  "title": "1st Declension - Masculine",
+  "variants": [
+    {
+      "name": "Masculine",
+      "cases": {
+        "nominative": {
+          "singular": "-ης",
+          "plural": "-αι"
+        },
+        "genitive": {
+          "singular": "-ου",
+          "plural": "-ῶν"
+        },
+        "dative": {
+          "singular": "-ᾳ",
+          "plural": "-αις"
+        },
+        "accusative": {
+          "singular": "-ᾱν",
+          "plural": "-ᾱς"
+        },
+        "vocative": {
+          "singular": "-α",
+          "plural": "-αι"
+        }
+      }
+    },
+    {
+      "name": "Masculine - Alternate",
+      "cases": {
+        "nominative": {
+          "singular": "-ᾱς",
+          "plural": "-αι"
+        },
+        "genitive": {
+          "singular": "-ου",
+          "plural": "-ῶν"
+        },
+        "dative": {
+          "singular": "-ῃ",
+          "plural": "-αις"
+        },
+        "accusative": {
+          "singular": "-ην",
+          "plural": "-ᾱς"
+        },
+        "vocative": {
+          "singular": "-α",
+          "plural": "-αι"
+        }
+      }
+    }
+  ]
   },
   "second": {
     "title": "2nd Declension",
@@ -163,5 +353,85 @@
         }
       }
     ]
+  },
+  "thirdDeclensionNounVariants": {
+  "title": "3rd Declension - Noun Variants",
+  "variants": [
+    {
+      "name": "Masculine",
+      "cases": {
+        "nominative": {
+          "singular": "-ης",
+          "plural": "-"
+        },
+        "genitive": {
+          "singular": "-ους",
+          "plural": "-"
+        },
+        "dative": {
+          "singular": "-ει",
+          "plural": "-"
+        },
+        "accusative": {
+          "singular": "-η",
+          "plural": "-"
+        },
+        "vocative": {
+          "singular": "-ες",
+          "plural": "-"
+        }
+      }
+    },
+    {
+      "name": "Neuter",
+      "cases": {
+        "nominative": {
+          "singular": "-ος",
+          "plural": "-η"
+        },
+        "genitive": {
+          "singular": "-ους",
+          "plural": "-ων"
+        },
+        "dative": {
+          "singular": "-ει",
+          "plural": "-εσι"
+        },
+        "accusative": {
+          "singular": "-ος",
+          "plural": "-η"
+        },
+        "vocative": {
+          "singular": "-ος",
+          "plural": "-η"
+        }
+      }
+    },
+    {
+      "name": "Feminine",
+      "cases": {
+        "nominative": {
+          "singular": "-ις",
+          "plural": "-εις"
+        },
+        "genitive": {
+          "singular": "-εως",
+          "plural": "-εων"
+        },
+        "dative": {
+          "singular": "-ει",
+          "plural": "-εσι"
+        },
+        "accusative": {
+          "singular": "-ιν",
+          "plural": "-εις"
+        },
+        "vocative": {
+          "singular": "-ι",
+          "plural": "-εις"
+        }
+      }
+    }
+  ]
   }
 }

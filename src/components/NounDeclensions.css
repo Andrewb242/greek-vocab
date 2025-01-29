@@ -28,6 +28,6 @@
 }
   
 .noun-table td {
-    width: 20%; /* Set equal width for all table data cells */
+    width: 1fr; /* Set equal width for all table data cells */
 }
   

@@ -20,25 +20,30 @@ function NounTable({declension}) {
         <thead>
           <tr>
             <th></th>
-            <th className="noun-header" colSpan={2}>{declension.variants[0].name}</th>
-            <th className="noun-header" colSpan={2}>{declension.variants[1].name}</th>
+            {declension.variants.map((variant, index) => (
+              <th key={index} className="noun-header" colSpan={2}>{variant.name}</th>
+            ))}            
           </tr>
           <tr>
             <th></th>
-            <th>Singular</th>
-            <th>Plural</th>
-            <th>Singular</th>
-            <th>Plural</th>
+            {declension.variants.map(() => (
+              <>
+                <th>Singular</th>
+                <th>Plural</th>
+              </>
+            ))}
           </tr>
         </thead>
         <tbody>
           {cases.map(({ id, label }) => (
             <tr key={id}>
               <td>{label}</td>
-              <td>{declension.variants[0].cases[id].singular}</td>
-              <td>{declension.variants[0].cases[id].plural}</td>
-              <td>{declension.variants[1].cases[id].singular}</td>
-              <td>{declension.variants[1].cases[id].plural}</td>
+              {declension.variants.map((variant, index) => (
+              <>
+                <td>{variant.cases[id].singular}</td>
+                <td>{variant.cases[id].plural}</td>
+              </>
+              ))}
             </tr>
           ))}
         </tbody>
@@ -48,14 +53,18 @@ function NounTable({declension}) {
 }
 
 export default function NounDeclensions() {
-  const { first, second, third } = declensions;
+  const { article, first, firstShortAlpha, firstMasculine, second, third, thirdDeclensionNounVariants } = declensions;
 
   return (
     <div className='noun'>
       <h1>Noun Declensions</h1>
+      <NounTable declension={article} />
       <NounTable declension={first} />
+      <NounTable declension={firstShortAlpha} />
+      <NounTable declension={firstMasculine} />
       <NounTable declension={second} />
       <NounTable declension={third} />
+      <NounTable declension={thirdDeclensionNounVariants} />
     </div>
   );
 }

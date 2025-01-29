@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/greek-vocab/static/css/main.800a6f72.css",
-    "main.js": "/greek-vocab/static/js/main.fd637211.js",
+    "main.css": "/greek-vocab/static/css/main.1bbc0334.css",
+    "main.js": "/greek-vocab/static/js/main.f629f6cc.js",
     "index.html": "/greek-vocab/index.html",
-    "main.800a6f72.css.map": "/greek-vocab/static/css/main.800a6f72.css.map",
-    "main.fd637211.js.map": "/greek-vocab/static/js/main.fd637211.js.map"
+    "main.1bbc0334.css.map": "/greek-vocab/static/css/main.1bbc0334.css.map",
+    "main.f629f6cc.js.map": "/greek-vocab/static/js/main.f629f6cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.800a6f72.css",
-    "static/js/main.fd637211.js"
+    "static/css/main.1bbc0334.css",
+    "static/js/main.f629f6cc.js"
   ]
 }

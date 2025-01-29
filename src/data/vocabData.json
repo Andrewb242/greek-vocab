@@ -2287,6 +2287,14 @@
       "declension": "first"
     },
     {
+      "greek": "σωτηρία",
+      "english": "salvation, safety",
+      "transliteration": "sōtēria",
+      "speechPart": "noun",
+      "gender": "feminine",
+      "declension": "first"
+    },
+    {
       "greek": "στρατηγός",
       "english": "general",
       "transliteration": "stratēgos",

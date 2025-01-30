@@ -22,21 +22,21 @@
             "participle": []
         },
         "aorist": {
-            "indicative": ["α", "ας", "ε", "αμεν", "ατε", "αν"],
+            "indicative": ["α", "ας", "ε(v)", "αμεν", "ατε", "αν"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": ["αι"],
             "participle": ["ας", "ασα", "αν"]
         },
         "perfect": {
-            "indicative": [],
+            "indicative": ["α", "ας", "ε(v)", "αμεν", "ατε", "ασι"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": [],
             "participle": []
         },
         "pluperfect": {
-            "indicative": [],
+            "indicative": ["η", "ης", "ει", "εμεν", "ετε", "εσαν" ],
             "subjunctive": [],
             "imperative": [],
             "infinitive": [],
@@ -73,14 +73,14 @@
             "participle": ["ομενος", "ομενη", "ομενον"]
         },
         "perfect": {
-            "indicative": [],
+            "indicative": ["μαι", "σαι", "ται", "μεθα", "σθε", "νται"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": [],
             "participle": []
         },
         "pluperfect": {
-            "indicative": [],
+            "indicative": ["μην", "σο", "το", "μεθα", "σθε", "ντο"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": [],
@@ -117,14 +117,14 @@
             "participle": ["εις", "εισα", "εν"]
         },
         "perfect": {
-            "indicative": [],
+            "indicative": ["μαι", "σαι", "ται", "μεθα", "σθε", "νται"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": [],
             "participle": []
         },
         "pluperfect": {
-            "indicative": [],
+            "indicative": ["μην", "σο", "το", "μεθα", "σθε", "ντο"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": [],

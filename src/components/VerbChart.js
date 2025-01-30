@@ -1,6 +1,8 @@
 import React from 'react'
 import './VerbChart.css'
 
+import verbData from "../data/verbChartData.json"
+
 function VerbSquare({endingList, principleP}) {
   return (
     <div className={`verb-table-square ${principleP? principleP : ""}`}>
@@ -72,8 +74,8 @@ export default function VerbChart() {
           endingList={["α", "ας", "ε(ν)", "αμεν", "ατε", "αν"]}
           principleP={"a"}
           />
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Active.perfect.indicative} principleP={"P"}/>
+          <VerbSquare endingList={verbData.Active.pluperfect.indicative} principleP={"P"}/>
           <div className='verb-table-row-label'>Subjunctive</div>
           <VerbSquare/>
           <VerbSquare/>
@@ -139,8 +141,8 @@ export default function VerbChart() {
           endingList={['αμην', 'ω', 'ατο', 'αμεθα', 'ασθε', 'αντο']}
           principleP={'a'}
           />
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Middle.perfect.indicative} principleP={"Pm"}/>
+          <VerbSquare endingList={verbData.Middle.pluperfect.indicative} principleP={"Pm"}/>
           <div className='verb-table-row-label'>Subjunctive</div>
           <VerbSquare/>
           <VerbSquare/>
@@ -206,8 +208,8 @@ export default function VerbChart() {
           endingList={['ην', 'ης', 'η', 'ημεν', 'ητε', 'ησαν']}
           principleP={'ap'}
           />
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Passive.perfect.indicative} principleP={"Pm"}/>
+          <VerbSquare endingList={verbData.Passive.pluperfect.indicative} principleP={"Pm"}/>
           <div className='verb-table-row-label'>Subjunctive</div>
           <VerbSquare/>
           <VerbSquare/>

@@ -59,19 +59,19 @@ export default function VerbChart() {
         <div className='verb-table-row'>
           <div className='verb-table-row-label'>Indicative</div>
           <VerbSquare 
-          endingList={["ω","εις","ει","ομεν","ετε","ουσι"]}
+          endingList={verbData.Active.present.indicative}
           principleP={"p"}
           />
           <VerbSquare
-          endingList={["ον", "ες", "ε(ν)", "ομεν", "ετε", "ον"]}
+          endingList={verbData.Active.imperfect.indicative}
           principleP={"p"}
           />
           <VerbSquare 
-          endingList={["ω","εις","ει","ομεν","ετε","ουσι"]}
+          endingList={verbData.Active.future.indicative}
           principleP={"f"}
           />
           <VerbSquare
-          endingList={["α", "ας", "ε(ν)", "αμεν", "ατε", "αν"]}
+          endingList={verbData.Active.aorist.indicative}
           principleP={"a"}
           />
           <VerbSquare endingList={verbData.Active.perfect.indicative} principleP={"P"}/>
@@ -92,7 +92,7 @@ export default function VerbChart() {
           <VerbSquare/>
           <div className='verb-table-row-label'>Infin.</div>
           <BasicSquare
-          endingList={["ειν"]}
+          endingList={verbData.Active.present.infinitive}
           principleP={"p"}
           />
           <BasicSquare/>

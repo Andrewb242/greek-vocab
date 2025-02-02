@@ -14,7 +14,7 @@ const Navbar = () => {
         <Link to="/">Dictionary</Link>
         <Link to="/noun">Noun Declensions</Link>
         <Link to="/verb-chart">Verb Chart</Link>
-        <Link to="/adjectives">Unique Adjectives</Link>
+        <Link to="/adjectives">Adjectives</Link>
         <Link to="/vocab-game">Vocab Game</Link>
       </div>
     </nav>

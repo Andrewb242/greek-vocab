@@ -1,28 +1,28 @@
 {
     "Active": {
         "present": {
-            "indicative": ["ω", "εις", "ει", "ομεν", "ετε", "ουσι"],
+            "indicative": ["ω","εις","ει","ομεν","ετε","ουσι"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": ["ειν"],
             "participle": ["ων", "ουσα", "ον"]
         },
         "imperfect": {
-            "indicative": ["ον", "ες", "ε", "ομεν", "ετε", "ον"],
+            "indicative": ["ον", "ες", "ε(ν)", "ομεν", "ετε", "ον"],
             "subjunctive": [],
             "imperative": [],
-            "infinitive": ["ομην", "ου", "ετο", "ομεθα", "εσθε", "οντο"],
+            "infinitive": [],
             "participle": []
         },
         "future": {
-            "indicative": ["ω", "εις", "ει", "ομεν", "ετε", "ουσι"],
+            "indicative": ["ω","εις","ει","ομεν","ετε","ουσι"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": ["ειν"],
             "participle": []
         },
         "aorist": {
-            "indicative": ["α", "ας", "ε(v)", "αμεν", "ατε", "αν"],
+            "indicative": ["α", "ας", "ε(ν)", "αμεν", "ατε", "αν"],
             "subjunctive": [],
             "imperative": [],
             "infinitive": ["αι"],

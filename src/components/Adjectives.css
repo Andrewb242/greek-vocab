@@ -1,0 +1,33 @@
+.adj {
+    margin: 50px 5%;
+    color: #284b63;
+}
+
+.adj-table {
+    width: 100%;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.adj-header {
+    font-weight: bold;
+}
+.adj-table th, .adj-table td {
+    border: 1px solid #284b63; /* Adds a solid black border around each cell */
+    padding: 8px; /* Adds padding for some spacing inside cells */
+    text-align: center; /* Centers text within cells */
+}
+  
+.adj-table th {
+    background-color: #f0f0f0; /* Light gray background for table headers */
+    font-weight: bold; /* Make header text bold */
+}
+  
+.adj-table td:nth-child(1) {
+    text-align: left; /* Align first column (with row labels) to the left */
+}
+  
+.adj-table td {
+    width: 1fr; /* Set equal width for all table data cells */
+}
+  

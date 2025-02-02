@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import VerbChart from './components/VerbChart';
 import NounDeclensions from './components/NounDeclensions';
 import VocabGame from './components/VocabGame';
+import Adjectives from './components/Adjectives';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path='/' element={<Search/>}/>
         <Route path='/verb-chart' element={<VerbChart/>}/>
         <Route path='/noun' element={<NounDeclensions/>}/>
+        <Route path='/adjectives' element={<Adjectives/>} />
         <Route path='/vocab-game' element={<VocabGame/>}/>
       </Routes>
     </Router>

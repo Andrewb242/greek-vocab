@@ -433,5 +433,165 @@
       }
     }
   ]
+  },
+  "firstSecondAdjectives": {
+    "title": "First-Second Declension Adjectives",
+    "variants": [
+      {
+          "name": "Masculine",
+          "cases": {
+            "nominative": {
+              "singular": "-ος",
+              "plural": "-οι"
+            },
+            "genitive": {
+              "singular": "-ου",
+              "plural": "-ων"
+            },
+            "dative": {
+              "singular": "-ῳ",
+              "plural": "-οις"
+            },
+            "accusative": {
+              "singular": "-ον",
+              "plural": "-ους"
+            },
+            "vocative": {
+              "singular": "-ε",
+              "plural": "-οι"
+            }
+          }
+        },
+        {
+          "name": "Feminine",
+          "cases": {
+            "nominative": {
+              "singular": "-η",
+              "plural": "-αι"
+            },
+            "genitive": {
+              "singular": "-ης",
+              "plural": "-ων"
+            },
+            "dative": {
+              "singular": "-ῃ",
+              "plural": "-αις"
+            },
+            "accusative": {
+              "singular": "-ην",
+              "plural": "-ας"
+            },
+            "vocative": {
+              "singular": "-η",
+              "plural": "-αι"
+            }
+          }
+        },
+        {
+          "name": "Neuter",
+          "cases": {
+            "nominative": {
+              "singular": "-ον",
+              "plural": "-α"
+            },
+            "genitive": {
+              "singular": "-ου",
+              "plural": "-ων"
+            },
+            "dative": {
+              "singular": "-ῳ",
+              "plural": "-οις"
+            },
+            "accusative": {
+              "singular": "-ον",
+              "plural": "-α"
+            },
+            "vocative": {
+              "singular": "-ον",
+              "plural": "-α"
+            }
+          }
+        }
+      ]
+  },
+  "thirdDeclensionAdjectives": {
+      "title": "Third Declension Adjectives",
+      "variants": [
+        {
+          "name": "Masculine/Feminine",
+          "cases": {
+            "nominative": {
+              "singular": "-ης",
+              "plural": "-εις"
+            },
+            "genitive": {
+              "singular": "-ους",
+              "plural": "-ων"
+            },
+            "dative": {
+              "singular": "-ει",
+              "plural": "-εσι(ν)"
+            },
+            "accusative": {
+              "singular": "-η",
+              "plural": "-εις"
+            },
+            "vocative": {
+              "singular": "-ες",
+              "plural": "-εις"
+            }
+          }
+        },
+        {
+          "name": "Neuter",
+          "cases": {
+            "nominative": {
+              "singular": "-ες",
+              "plural": "-η"
+            },
+            "genitive": {
+              "singular": "-ους",
+              "plural": "-ων"
+            },
+            "dative": {
+              "singular": "-ει",
+              "plural": "-εσι(ν)"
+            },
+            "accusative": {
+              "singular": "-ες",
+              "plural": "-η"
+            },
+            "vocative": {
+              "singular": "-ες",
+              "plural": "-η"
+            }
+          }
+        },
+        {
+          "name": "Consonant Stem",
+          "cases": {
+            "nominative": {
+              "singular": "-ων",
+              "plural": "-ονες"
+            },
+            "genitive": {
+              "singular": "-ονος",
+              "plural": "-ονων"
+            },
+            "dative": {
+              "singular": "-ονι",
+              "plural": "-οσι(ν)"
+            },
+            "accusative": {
+              "singular": "-ονα",
+              "plural": "-ονας"
+            },
+            "vocative": {
+              "singular": "-ον",
+              "plural": "-ονες"
+            }
+          }
+        }
+      ]
   }
 }

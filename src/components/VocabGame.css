@@ -24,10 +24,6 @@
     background-color: #3c6e71;
 }
 
-.vocab-game-answers-container {
-    display: flex;
-    justify-content: space-evenly;
-}
 
 .vocab-game-game {
     padding: 50px;
@@ -46,13 +42,31 @@
     font-size: 5rem;
 }
 
+.vocab-game-answers-container {
+    display: grid;
+    justify-content: space-evenly;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+    gap: 20px;
+    transition: opacity 0.5s ease;
+    opacity: 1;
+}
+
+.vocab-game-answer-container.fade-out {
+    opacity: 0;
+}
+
+.vocab-game-answer-container.fade-in {
+    opacity: 1;
+}
+
 .vocab-game-answer-box {
     color: #284b63;
-    padding: 50px;
-    border: 2px solid #284b63;
+    padding: 33px;
+    border: 3px solid #284b63;
     cursor: pointer;
     font-size: 1.75rem;
     transition: 0.5s ease;
+    text-align: center;
 }
 
 .vocab-game-answer-box.selected.correct {

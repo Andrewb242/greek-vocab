@@ -2261,356 +2261,294 @@
         "declension": null
       }
     ],
-    "chapter8": [
+    "chapter9": [
     {
-      "greek": "ἡδονή",
-      "english": "pleasure",
-      "transliteration": "hēdonē",
+      "greek": "ἀμαθία, ἀμαθίας, ἡ",
+      "english": "ignorance, stupidity",
+      "transliteration": "amathia, amathias",
       "speechPart": "noun",
       "gender": "feminine",
       "declension": "first"
     },
     {
-      "greek": "λύπη",
-      "english": "pain",
-      "transliteration": "lupē",
+      "greek": "ἀνδρεία, ἀνδρείας, ἡ",
+      "english": "manliness; courage",
+      "transliteration": "andreia, andreias",
       "speechPart": "noun",
       "gender": "feminine",
       "declension": "first"
     },
     {
-      "greek": "στρατιώτης",
-      "english": "soldier",
-      "transliteration": "stratiōtēs",
-      "speechPart": "noun",
-      "gender": "masculine",
-      "declension": "first"
-    },
-    {
-      "greek": "σωτηρία",
-      "english": "salvation, safety",
-      "transliteration": "sōtēria",
+      "greek": "δικαιοσύνη, δικαιοσύνης, ἡ",
+      "english": "justice",
+      "transliteration": "dikaiosunē, dikaiosunēs",
       "speechPart": "noun",
       "gender": "feminine",
       "declension": "first"
     },
     {
-      "greek": "στρατηγός",
-      "english": "general",
-      "transliteration": "stratēgos",
+      "greek": "σωφροσύνη, σωφροσύνης, ἡ",
+      "english": "moderation",
+      "transliteration": "sōphrosunē, sōphrosunēs",
+      "speechPart": "noun",
+      "gender": "feminine",
+      "declension": "first"
+    },
+    {
+      "greek": "τρόπος, τρόπου, ὁ",
+      "english": "way, manner; habit; character",
+      "transliteration": "tropos, tropou",
       "speechPart": "noun",
       "gender": "masculine",
       "declension": "second"
     },
     {
-      "greek": "στρατός",
-      "english": "army",
-      "transliteration": "stratos",
-      "speechPart": "noun",
-      "gender": "masculine",
-      "declension": "second"
-    },
-    {
-      "greek": "κίνδυνος",
-      "english": "danger",
-      "transliteration": "kindunos",
-      "speechPart": "noun",
-      "gender": "masculine",
-      "declension": "second"
-    },
-    {
-      "greek": "πλῆθος, πλήθους",
-      "english": "great number, multitude",
-      "transliteration": "plēthos, plēthous",
+      "greek": "τέλος, τέλους, τό",
+      "english": "end, purpose; power",
+      "transliteration": "telos, telous",
       "speechPart": "noun",
       "gender": "neuter",
       "declension": "third"
     },
     {
-      "greek": "τεῖχος, τείχους",
-      "english": "wall",
-      "transliteration": "teichos, teichous",
+      "greek": "φρόνησις, φρονήσεως, ἡ",
+      "english": "intelligence, understanding",
+      "transliteration": "phronēsis, phronēseōs",
       "speechPart": "noun",
-      "gender": "neuter",
+      "gender": "feminine",
       "declension": "third"
     },
     {
-      "greek": "ἀλλήλων",
-      "english": "one another, each other",
-      "transliteration": "allēlōn",
+      "greek": "τίς, τί",
+      "english": "who, what, which",
+      "transliteration": "tis, ti",
       "speechPart": "pronoun",
+      "notes": "interrogative pronoun/adjective (§93)",
       "gender": null,
       "declension": null
     },
     {
-      "greek": "ἐρῶ",
-      "english": "say, tell (cf.)",
-      "transliteration": "erō",
-      "speechPart": "verb",
-      "principalParts": {
-        "present": null,
-        "future": "ἐρῶ",
-        "aorist": null,
-        "perfect": "εἴρηκα",
-        "perfectMiddle": "εἴρημαι",
-        "aoristPassive": "ἐρρήθην"
-      },
+      "greek": "τις, τι",
+      "english": "someone, something; anyone, anything; some, any",
+      "transliteration": "tis, ti",
+      "speechPart": "pronoun",
+      "notes": "indefinite pronoun/adjective (§94)",
       "gender": null,
       "declension": null
     },
     {
-      "greek": "ζάω",
-      "english": "be alive, live",
-      "transliteration": "zaō",
+      "greek": "διαφθείρω",
+      "english": "destroy (utterly); corrupt, ruin",
+      "transliteration": "diaphtheirō",
       "speechPart": "verb",
       "principalParts": {
-        "present": "ζάω",
-        "future": "ζήσω",
-        "aorist": null,
+        "present": "διαφθείρω",
+        "future": "διαφθερῶ",
+        "aorist": "διέφθειρα",
+        "perfect": "διέφθαρκα/διέφθορα",
+        "perfectMiddle": "διέφθαρμαι",
+        "aoristPassive": "διεφθάρην"
+      }
+    },
+    {
+      "greek": "ἕπομαι",
+      "english": "follow (+ dat.)",
+      "transliteration": "hepomai",
+      "speechPart": "verb",
+      "principalParts": {
+        "present": "ἕπομαι",
+        "future": "ἕψομαι",
+        "aorist": "ἑσπόμην",
         "perfect": null,
         "perfectMiddle": null,
         "aoristPassive": null
-      },
-      "gender": null,
-      "declension": null
+      }
     },
     {
-      "greek": "θνῄσκω",
-      "english": "die; perfect: be dead",
-      "transliteration": "thnēiskō",
+      "greek": "λαμβάνω",
+      "english": "take, seize; understand; receive; middle, take hold of (+ gen.)",
+      "transliteration": "lambanō",
       "speechPart": "verb",
       "principalParts": {
-        "present": "θνῄσκω",
-        "future": "θανοῦμαι",
-        "aorist": "ἔθανον",
-        "perfect": "τέθνηκα",
+        "present": "λαμβάνω",
+        "future": "λήψομαι",
+        "aorist": "ἔλαβον",
+        "perfect": "εἴληφα",
+        "perfectMiddle": "εἴλημμαι",
+        "aoristPassive": "ἐλήφθην"
+      }
+    },
+    {
+      "greek": "ὑπολαμβάνω",
+      "english": "take up, reply; suppose",
+      "transliteration": "hupolambanō",
+      "speechPart": "verb",
+      "principalParts": {
+        "present": "ὑπολαμβάνω",
+        "future": "ὑπολήψομαι",
+        "aorist": "ὑπέλαβον",
+        "perfect": "ὑπείληφα",
+        "perfectMiddle": "ὑπείλημμαι",
+        "aoristPassive": "ὑπελήφθην"
+      }
+    },
+    {
+      "greek": "μένω",
+      "english": "remain, stay; trans., await",
+      "transliteration": "menō",
+      "speechPart": "verb",
+      "principalParts": {
+        "present": "μένω",
+        "future": "μενῶ",
+        "aorist": "ἔμεινα",
+        "perfect": "μεμένηκα",
         "perfectMiddle": null,
         "aoristPassive": null
-      },
-      "gender": null,
-      "declension": null
+      }
     },
     {
-      "greek": "ἀποθνῄσκω",
-      "english": "die; perfect: be dead",
-      "transliteration": "apothnēiskō",
+      "greek": "οἶδα",
+      "english": "know",
+      "transliteration": "oida",
       "speechPart": "verb",
       "principalParts": {
-        "present": "ἀποθνῄσκω",
-        "future": "ἀποθανοῦμαι",
-        "aorist": "ἀπέθανον",
-        "perfect": "τέθνηκα",
-        "perfectMiddle": null,
-        "aoristPassive": null
-      },
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "κτείνω",
-      "english": "kill",
-      "transliteration": "kteinō",
-      "speechPart": "verb",
-      "principalParts": {
-        "present": "κτείνω",
-        "future": "κτενῶ",
-        "aorist": "ἔκτεινα",
-        "perfect": null,
-        "perfectMiddle": null,
-        "aoristPassive": null
-      },
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "ἀποκτείνω",
-      "english": "kill",
-      "transliteration": "apokteinō",
-      "speechPart": "verb",
-      "principalParts": {
-        "present": "ἀποκτείνω",
-        "future": "ἀποκτενῶ",
-        "aorist": "ἀπέκτεινα",
-        "perfect": "ἀπέκτονα",
-        "perfectMiddle": null,
-        "aoristPassive": null
-      },
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "μάχομαι",
-      "english": "fight (against) (+ dat.)",
-      "transliteration": "machomai",
-      "speechPart": "verb",
-      "principalParts": {
-        "present": "μάχομαι",
-        "future": "μαχοῦμαι",
-        "aorist": "ἐμαχεσάμην",
-        "perfect": "μεμάχημαι",
-        "perfectMiddle": null,
-        "aoristPassive": null
-      },
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "οἴομαι",
-      "english": "think, suppose, believe",
-      "transliteration": "oiomai",
-      "speechPart": "verb",
-      "principalParts": {
-        "present": "οἴομαι/οἶμαι",
-        "future": "οἰήσομαι",
-        "aorist": "ᾠήθην",
-        "perfect": null,
-        "perfectMiddle": null,
-        "aoristPassive": null
-      },
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "φάσκω",
-      "english": "say, assert",
-      "transliteration": "phaskō",
-      "speechPart": "verb",
-      "principalParts": {
-        "present": "φάσκω",
-        "future": null,
+        "present": "οἶδα",
+        "future": "εἴσομαι",
         "aorist": null,
         "perfect": null,
         "perfectMiddle": null,
         "aoristPassive": null
       },
-      "gender": null,
-      "declension": null
+      "notes": "(§92)"
     },
     {
-      "greek": "φημί",
-      "english": "say, assert (§67)",
-      "transliteration": "phēmi",
+      "greek": "φέρω",
+      "english": "bear, bring, carry; endure; middle, carry away with oneself; win",
+      "transliteration": "pherō",
       "speechPart": "verb",
       "principalParts": {
-        "present": "φημί",
-        "future": "φήσω",
-        "aorist": "ἔφησα",
-        "perfect": null,
-        "perfectMiddle": null,
-        "aoristPassive": null
-      },
-      "gender": null,
-      "declension": null
+        "present": "φέρω",
+        "future": "οἴσω",
+        "aorist": "ἤνεγκα/ἤνεγκον",
+        "perfect": "ἐνήνοχα",
+        "perfectMiddle": "ἐνήνεγμαι",
+        "aoristPassive": "ἠνέχθην"
+      }
     },
     {
-      "greek": "χρή",
-      "english": "(impersonal verb) it is necessary, ought",
-      "transliteration": "chrē",
+      "greek": "φεύγω",
+      "english": "flee, avoid, escape",
+      "transliteration": "pheugō",
       "speechPart": "verb",
       "principalParts": {
-        "present": "χρή",
-        "future": "χρήσται",
-        "aorist": null,
-        "perfect": null,
+        "present": "φεύγω",
+        "future": "φεύξομαι",
+        "aorist": "ἔφυγον",
+        "perfect": "πέφευγα",
         "perfectMiddle": null,
         "aoristPassive": null
-      },
+      }
+    },
+    {
+      "greek": "ἄθλιος, ἀθλία, ἄθλιον",
+      "english": "wretched, miserable",
+      "transliteration": "athlios, athlia, athlion",
+      "speechPart": "adjective",
+      "gender": "masculine"
+    },
+    {
+      "greek": "ἀμαθής, ἀμαθές",
+      "english": "ignorant, foolish",
+      "transliteration": "amathēs, amathes",
+      "speechPart": "adjective",
+      "gender": "masculine"
+    },
+    {
+      "greek": "εὐδαίμων, εὐδαίμον",
+      "english": "fortunate, happy",
+      "transliteration": "eudaimōn, eudaimon",
+      "speechPart": "adjective",
+      "gender": "masculine"
+    },
+    {
+      "greek": "σώφρων, σῶφρον",
+      "english": "moderate, prudent",
+      "transliteration": "sōphrōn, sōphron",
+      "speechPart": "adjective",
+      "gender": "masculine"
+    },
+    {
+      "greek": "εἷς, μία, ἕν",
+      "english": "one",
+      "transliteration": "heis, mia, hen",
+      "speechPart": "adjective",
+      "notes": "numerical adjective (§95)",
+      "gender": null
+    },
+    {
+      "greek": "οὐδείς, οὐδεμία, οὐδέν",
+      "english": "no, not any; no one, nothing",
+      "transliteration": "oudeis, oudemia, ouden",
+      "speechPart": "adjective",
+      "notes": "adjective/substantive (§95)",
+      "gender": null
+    },
+    {
+      "greek": "μηδείς, μηδεμία, μηδέν",
+      "english": "no, not any; no one, nothing",
+      "transliteration": "mēdeis, mēdemia, mēden",
+      "speechPart": "adjective",
+      "notes": "adjective/substantive (§95)",
+      "gender": null
+    },
+    {
+      "greek": "ἄν",
+      "english": "used in the apodoses of some conditional sentences",
+      "transliteration": "an",
+      "speechPart": "particle",
+      "notes": "(§96)",
       "gender": null,
       "declension": null
     },
     {
-      "greek": "ἐναντίος",
-      "english": "facing, opposite; opposing, contrary (to) (+ gen. or dat.)",
-      "transliteration": "enantios",
-      "speechPart": "adjective",
-      "gender": "masculine",
+      "greek": "ἄρα",
+      "english": "(so) then, therefore; after all",
+      "transliteration": "ara",
+      "speechPart": "particle",
+      "notes": "postpositive particle",
+      "gender": null,
       "declension": null
     },
     {
-      "greek": "ἴσος",
-      "english": "equal; fair",
-      "transliteration": "isos",
-      "speechPart": "adjective",
-      "gender": "masculine",
+      "greek": "εἰ",
+      "english": "if",
+      "transliteration": "ei",
+      "speechPart": "conjunction",
+      "gender": null,
       "declension": null
     },
     {
-      "greek": "μακρός",
-      "english": "large, great; long; tall",
-      "transliteration": "makros",
-      "speechPart": "adjective",
-      "gender": "masculine",
-      "declension": null
-    },
-    {
-      "greek": "μικρός",
-      "english": "small",
-      "transliteration": "mikros",
-      "speechPart": "adjective",
-      "gender": "masculine",
-      "declension": null
-    },
-    {
-      "greek": "παλαιός",
-      "english": "old, ancient",
-      "transliteration": "palaios",
-      "speechPart": "adjective",
-      "gender": "masculine",
-      "declension": null
-    },
-    {
-      "greek": "ἔτι",
-      "english": "still, yet",
-      "transliteration": "eti",
+      "greek": "ἐκεῖ",
+      "english": "there",
+      "transliteration": "ekei",
       "speechPart": "adverb",
       "gender": null,
       "declension": null
     },
     {
-      "greek": "οὐκέτι",
-      "english": "no longer",
-      "transliteration": "ouketi",
+      "greek": "πω",
+      "english": "yet",
+      "transliteration": "pō",
       "speechPart": "adverb",
+      "notes": "enclitic",
       "gender": null,
       "declension": null
     },
     {
-      "greek": "μηκέτι",
-      "english": "no longer",
-      "transliteration": "mēketi",
+      "greek": "πώποτε",
+      "english": "ever yet",
+      "transliteration": "pōpote",
       "speechPart": "adverb",
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "ἴσως",
-      "english": "equally; perhaps",
-      "transliteration": "isōs",
-      "speechPart": "adverb",
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "πάνυ",
-      "english": "altogether; very (much), exceedingly; in answers, by all means, certainly",
-      "transliteration": "panu",
-      "speechPart": "adverb",
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "οὐ πάνυ",
-      "english": "not at all",
-      "transliteration": "ou panu",
-      "speechPart": "adverbial phrase",
-      "gender": null,
-      "declension": null
-    },
-    {
-      "greek": "πρό",
-      "english": "before, in front of",
-      "transliteration": "pro",
-      "speechPart": "preposition",
       "gender": null,
       "declension": null
     }

@@ -1,5 +1,5 @@
 {
-    "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5","Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9"],
+    "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5","Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10"],
     "chapter1": [
       {
         "greek": "ἀγορά, ἀγορᾶς",
@@ -2906,5 +2906,311 @@
       "gender": null,
       "declension": null
     }
+    ],
+    "chapter10": [
+        {
+          "greek": "ἡμέρα, ἡμέρας",
+          "english": "day",
+          "transliteration": "hemera",
+          "speechPart": "noun",
+          "gender": "feminine",
+          "declension": "first"
+        },
+        {
+          "greek": "χρόνος, χρόνου",
+          "english": "time",
+          "transliteration": "chronos",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "second"
+        },
+        {
+          "greek": "βασιλεύς, βασιλέως",
+          "english": "king",
+          "transliteration": "basileus",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "third"
+        },
+        {
+          "greek": "γονεύς, γονέως",
+          "english": "parent",
+          "transliteration": "goneus",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "third"
+        },
+        {
+          "greek": "ἱππεύς, ἱππέως",
+          "english": "horseman, cavalryman, knight",
+          "transliteration": "hippeus",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "third"
+        },
+        {
+          "greek": "ἱερεύς, ἱερέως",
+          "english": "priest",
+          "transliteration": "hiereus",
+          "speechPart": "noun",
+          "gender": "masculine",
+          "declension": "third"
+        },
+        {
+          "greek": "ἑαυτοῦ/αὑτοῦ",
+          "english": "himself, herself, oneself, itself",
+          "transliteration": "heautou/hautou",
+          "speechPart": "reflexive pronoun",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἑαυτῶν/αὑτῶν",
+          "english": "themselves",
+          "transliteration": "heauton/hauton",
+          "speechPart": "reflexive pronoun",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἐμαυτοῦ",
+          "english": "myself",
+          "transliteration": "emautou",
+          "speechPart": "reflexive pronoun",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἡμῶν αὐτῶν",
+          "english": "ourselves",
+          "transliteration": "hemon auton",
+          "speechPart": "reflexive pronoun",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "σεαυτοῦ/σαυτοῦ",
+          "english": "yourself",
+          "transliteration": "seautou/sautou",
+          "speechPart": "reflexive pronoun",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ὑμῶν αὐτῶν",
+          "english": "yourselves",
+          "transliteration": "hymon auton",
+          "speechPart": "reflexive pronoun",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "σφῶν αὐτῶν",
+          "english": "themselves",
+          "transliteration": "sphon auton",
+          "speechPart": "reflexive pronoun",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "αἰσθάνομαι, αἰσθήσομαι, ᾐσθόμην, ᾔσθημαι",
+          "english": "perceive",
+          "transliteration": "aisthanomai",
+          "speechPart": "verb",
+          "principalParts": {
+            "present": "αἰσθάνομαι",
+            "future": "αἰσθήσομαι",
+            "aorist": "ᾐσθόμην",
+            "perfect": "ᾔσθημαι",
+            "perfectMiddle": "—",
+            "aoristPassive": "—"
+          },
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "διαφέρω, διοίσω, διήνεγκα/διήνεγκον",
+          "english": "carry through, transport, differ, excel",
+          "transliteration": "diaphero",
+          "speechPart": "verb",
+          "principalParts": {
+            "present": "διαφέρω",
+            "future": "διοίσω",
+            "aorist": "διήνεγκα/διήνεγκον",
+            "perfect": "—",
+            "perfectMiddle": "—",
+            "aoristPassive": "—"
+          },
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "δύναμαι, δυνήσομαι",
+          "english": "be powerful, be able",
+          "transliteration": "dynamai",
+          "speechPart": "verb",
+          "principalParts": {
+            "present": "δύναμαι",
+            "future": "δυνήσομαι",
+            "aorist": "—",
+            "perfect": "—",
+            "perfectMiddle": "—",
+            "aoristPassive": "—"
+          },
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἐπανίστημι, ἐπαναστήσομαι, ἐπανέστην",
+          "english": "cause to rise up, rise up",
+          "transliteration": "epanistemi",
+          "speechPart": "verb",
+          "principalParts": {
+            "present": "ἐπανίστημι",
+            "future": "ἐπαναστήσομαι",
+            "aorist": "ἐπανέστην",
+            "perfect": "—",
+            "perfectMiddle": "—",
+            "aoristPassive": "—"
+          },
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἐφίστημι, ἐπιστήσω, ἐπέστησα, ἐπέστην",
+          "english": "set upon, place over, stand over, set over",
+          "transliteration": "ephistemi",
+          "speechPart": "verb",
+          "principalParts": {
+            "present": "ἐφίστημι",
+            "future": "ἐπιστήσω",
+            "aorist": "ἐπέστησα/ἐπέστην",
+            "perfect": "—",
+            "perfectMiddle": "—",
+            "aoristPassive": "—"
+          },
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "κελεύω, κελεύσω, ἐκέλευσα, κεκέλευκα, κεκέλευσμαι, ἐκελεύσθην",
+          "english": "command",
+          "transliteration": "keleuo",
+          "speechPart": "verb",
+          "principalParts": {
+            "present": "κελεύω",
+            "future": "κελεύσω",
+            "aorist": "ἐκέλευσα",
+            "perfect": "κεκέλευκα",
+            "perfectMiddle": "κεκέλευσμαι",
+            "aoristPassive": "ἐκελεύσθην"
+          },
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "φυλάττω, φυλάξω, ἐφύλαξα, πεφύλαχα, πεφύλαγμαι, ἐφυλάχθην",
+          "english": "guard, keep safe, preserve; (middle) protect oneself",
+          "transliteration": "phylatto",
+          "speechPart": "verb",
+          "principalParts": {
+            "present": "φυλάττω",
+            "future": "φυλάξω",
+            "aorist": "ἐφύλαξα",
+            "perfect": "πεφύλαχα",
+            "perfectMiddle": "πεφύλαγμαι",
+            "aoristPassive": "ἐφυλάχθην"
+          },
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "θεῖος, θεία, θεῖον",
+          "english": "divine, excellent",
+          "transliteration": "theios",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἴδιος, ἰδία, ἴδιον",
+          "english": "peculiar",
+          "transliteration": "idios",
+          "speechPart": "adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "σφέτερος, σφετέρα, σφέτερον",
+          "english": "their own",
+          "transliteration": "spheteros",
+          "speechPart": "possessive adjective",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "δημοσίᾳ",
+          "english": "in public, publicly",
+          "transliteration": "demosia",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἤ",
+          "english": "than",
+          "transliteration": "e",
+          "speechPart": "conjunction",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἤδη",
+          "english": "already, by this time, now, presently",
+          "transliteration": "ede",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "ἰδίᾳ",
+          "english": "privately",
+          "transliteration": "idia",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "μάλα",
+          "english": "very, exceedingly",
+          "transliteration": "mala",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "μᾶλλον",
+          "english": "more, rather",
+          "transliteration": "mallon",
+          "speechPart": "comparative adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "πάλαι",
+          "english": "long ago, long since",
+          "transliteration": "palai",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        },
+        {
+          "greek": "πρῶτον",
+          "english": "first",
+          "transliteration": "proton",
+          "speechPart": "adverb",
+          "gender": null,
+          "declension": null
+        }
     ]
   }

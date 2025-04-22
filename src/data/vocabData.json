@@ -1,5 +1,5 @@
 {
-    "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5","Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10"],
+    "chapters": ["Chapter 1", "Chapter 2", "Chapter 3", "Chapter 4", "Chapter 5","Chapter 6", "Chapter 7", "Chapter 8", "Chapter 9", "Chapter 10", "Chapter 11"],
     "chapter1": [
       {
         "greek": "ἀγορά, ἀγορᾶς",
@@ -3212,5 +3212,561 @@
           "gender": null,
           "declension": null
         }
-    ]
+    ],
+    "chapter11": [
+  {
+    "greek": "ἐπιστήμη, ἐπιστήμης",
+    "english": "knowledge",
+    "transliteration": "episteme",
+    "speechPart": "noun",
+    "gender": "feminine",
+    "declension": "first"
+  },
+  {
+    "greek": "ὀργή, ὀργῆς",
+    "english": "temperament, anger",
+    "transliteration": "orge",
+    "speechPart": "noun",
+    "gender": "feminine",
+    "declension": "first"
+  },
+  {
+    "greek": "δῶρον, δώρου",
+    "english": "gift",
+    "transliteration": "doron",
+    "speechPart": "noun",
+    "gender": "neuter",
+    "declension": "second"
+  },
+  {
+    "greek": "ἵππος, ἵππου",
+    "english": "horse, mare",
+    "transliteration": "hippos",
+    "speechPart": "noun",
+    "gender": "masculine/feminine",
+    "declension": "second"
+  },
+  {
+    "greek": "τεκμήριον, τεκμηρίου",
+    "english": "sure sign, proof",
+    "transliteration": "tekmerion",
+    "speechPart": "noun",
+    "gender": "neuter",
+    "declension": "second"
+  },
+  {
+    "greek": "μέρος, μέρους",
+    "english": "part, portion, lot",
+    "transliteration": "meros",
+    "speechPart": "noun",
+    "gender": "neuter",
+    "declension": "third"
+  },
+  {
+    "greek": "πατρίς, πατρίδος",
+    "english": "homeland",
+    "transliteration": "patris",
+    "speechPart": "noun",
+    "gender": "feminine",
+    "declension": "third"
+  },
+  {
+    "greek": "χείρ, χειρός",
+    "english": "hand",
+    "transliteration": "cheir",
+    "speechPart": "noun",
+    "gender": "feminine",
+    "declension": "third"
+  },
+  {
+    "greek": "ἀπόλλυμι, ἀπολῶ, ἀπώλεσα (trans.)/ἀπολοῦμαι (intrans.), ἀπωλόμην, ἀπολώλεκα (trans.)/ἀπόλωλα (intrans.)",
+    "english": "lose, destroy/middle or passive: perish",
+    "transliteration": "apollymi",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "ἀπόλλυμι",
+      "future": "ἀπολῶ/ἀπολοῦμαι",
+      "aorist": "ἀπώλεσα/ἀπωλόμην",
+      "perfect": "ἀπολώλεκα/ἀπόλωλα",
+      "perfectMiddle": "—",
+      "aoristPassive": "—"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "δείκνυμι, δείξω, ἔδειξα, δέδειχα, δέδειγμαι, ἐδείχθην",
+    "english": "show, prove",
+    "transliteration": "deiknymi",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "δείκνυμι",
+      "future": "δείξω",
+      "aorist": "ἔδειξα",
+      "perfect": "δέδειχα",
+      "perfectMiddle": "δέδειγμαι",
+      "aoristPassive": "ἐδείχθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἐπιδείκνυμι, ἐπιδείξω, ἐπέδειξα, ἐπιδέδειχα, ἐπιδέδειγμαι, ἐπεδείχθην",
+    "english": "show, middle: display (something of one's own or for oneself)",
+    "transliteration": "epideiknymi",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "ἐπιδείκνυμι",
+      "future": "ἐπιδείξω",
+      "aorist": "ἐπέδειξα",
+      "perfect": "ἐπιδέδειχα",
+      "perfectMiddle": "ἐπιδέδειγμαι",
+      "aoristPassive": "ἐπεδείχθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "δοκέω, δόξω, ἔδοξα, δέδογμαι",
+    "english": "think, seem; impersonal: it is thought, it seems likely, it is fitting, it seems",
+    "transliteration": "dokeo",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "δοκέω",
+      "future": "δόξω",
+      "aorist": "ἔδοξα",
+      "perfect": "—",
+      "perfectMiddle": "δέδογμαι",
+      "aoristPassive": "—"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "καλέω, καλέσω, ἐκάλεσα, κέκληκα, κέκλημαι, ἐκλήθην",
+    "english": "call, summon, name; middle: call for oneself, command",
+    "transliteration": "kaleo",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "καλέω",
+      "future": "καλέσω",
+      "aorist": "ἐκάλεσα",
+      "perfect": "κέκληκα",
+      "perfectMiddle": "κέκλημαι",
+      "aoristPassive": "ἐκλήθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "παρέχω, παρέξω/παρασχήσω, παρέσχον, παρέσχηκα, παρέσχημαι",
+    "english": "provide, present, supply",
+    "transliteration": "parecho",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "παρέχω",
+      "future": "παρέξω/παρασχήσω",
+      "aorist": "παρέσχον",
+      "perfect": "παρέσχηκα",
+      "perfectMiddle": "παρέσχημαι",
+      "aoristPassive": "—"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "τυγχάνω, τεύξομαι, ἔτυχον, τετύχηκα",
+    "english": "happen (to); with gen.: obtain (+ gen.)",
+    "transliteration": "tynchano",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "τυγχάνω",
+      "future": "τεύξομαι",
+      "aorist": "ἔτυχον",
+      "perfect": "τετύχηκα",
+      "perfectMiddle": "—",
+      "aoristPassive": "—"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "χράομαι, χρήσομαι, ἐχρησάμην, κέχρημαι",
+    "english": "use (+ dat.); experience, be subject to (+ dat.); treat (+ dat.)",
+    "transliteration": "chraomai",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "χράομαι",
+      "future": "χρήσομαι",
+      "aorist": "ἐχρησάμην",
+      "perfect": "κέχρημαι",
+      "perfectMiddle": "—",
+      "aoristPassive": "—"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἀντί",
+    "english": "instead of, in return for",
+    "transliteration": "anti",
+    "speechPart": "preposition",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἅτε",
+    "english": "with causal participle, since, because",
+    "transliteration": "hate",
+    "speechPart": "particle",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἐπειδή",
+    "english": "after that",
+    "transliteration": "epeide",
+    "speechPart": "adverb",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "καίπερ",
+    "english": "with concessive participle, although",
+    "transliteration": "kaiper",
+    "speechPart": "particle",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "οἷα",
+    "english": "with causal participle, since",
+    "transliteration": "hoia",
+    "speechPart": "particle",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ὅμως",
+    "english": "nevertheless",
+    "transliteration": "homos",
+    "speechPart": "adverb",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ὡς",
+    "english": "with causal participle, on the ground(s) that; apparently because; as though; with future circumstantial participle, in order to; introducing it",
+    "transliteration": "hos",
+    "speechPart": "particle",
+    "gender": null,
+    "declension": null
+  }
+    ],
+    "chapter12": [
+  {
+    "greek": "πολιτεία, πολιτείας",
+    "english": "civil life, government, administration, constitution",
+    "transliteration": "politeia",
+    "speechPart": "noun",
+    "gender": "feminine",
+    "declension": "first"
+  },
+  {
+    "greek": "φιλία, φιλίας",
+    "english": "friendship",
+    "transliteration": "philia",
+    "speechPart": "noun",
+    "gender": "feminine",
+    "declension": "first"
+  },
+  {
+    "greek": "φιλοσοφία, φιλοσοφίας",
+    "english": "philosophy",
+    "transliteration": "philosophia",
+    "speechPart": "noun",
+    "gender": "feminine",
+    "declension": "first"
+  },
+  {
+    "greek": "οἶνος, οἴνου",
+    "english": "wine",
+    "transliteration": "oinos",
+    "speechPart": "noun",
+    "gender": "masculine",
+    "declension": "second"
+  },
+  {
+    "greek": "ὄνομα, ὀνόματος",
+    "english": "name",
+    "transliteration": "onoma",
+    "speechPart": "noun",
+    "gender": "neuter",
+    "declension": "third"
+  },
+  {
+    "greek": "πρέσβυς, πρέσβεως",
+    "english": "old man, ambassador",
+    "transliteration": "presbus",
+    "speechPart": "noun",
+    "gender": "masculine",
+    "declension": "third"
+  },
+  {
+    "greek": "αἱρέω, αἱρήσω, εἷλον, ᾕρηκα, ᾕρημαι, ᾑρέθην",
+    "english": "take, seize, capture; middle: choose; passive: be chosen",
+    "transliteration": "haireo",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "αἱρέω",
+      "future": "αἱρήσω",
+      "aorist": "εἷλον",
+      "perfect": "ᾕρηκα",
+      "perfectMiddle": "ᾕρημαι",
+      "aoristPassive": "ᾑρέθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "βουλεύω, βουλεύσω, ἐβούλευσα, βεβούλευκα, βεβούλευμαι, ἐβουλεύθην",
+    "english": "advise; plan; resolve; middle: deliberate",
+    "transliteration": "bouleuo",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "βουλεύω",
+      "future": "βουλεύσω",
+      "aorist": "ἐβούλευσα",
+      "perfect": "βεβούλευκα",
+      "perfectMiddle": "βεβούλευμαι",
+      "aoristPassive": "ἐβουλεύθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "καλέω, καλῶ, ἐκάλεσα, κέκληκα, κέκλημαι, ἐκλήθην",
+    "english": "call, summon; name",
+    "transliteration": "kaleo",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "καλέω",
+      "future": "καλῶ",
+      "aorist": "ἐκάλεσα",
+      "perfect": "κέκληκα",
+      "perfectMiddle": "κέκλημαι",
+      "aoristPassive": "ἐκλήθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "λείπω, λείψω, ἔλιπον, λέλοιπα, λέλειμμαι, ἐλείφθην",
+    "english": "leave (behind); active or passive: be lacking",
+    "transliteration": "leipo",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "λείπω",
+      "future": "λείψω",
+      "aorist": "ἔλιπον",
+      "perfect": "λέλοιπα",
+      "perfectMiddle": "λέλειμμαι",
+      "aoristPassive": "ἐλείφθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "νομίζω, νομιῶ, ἐνόμισα, νενόμικα, νενόμισμαι, ἐνομίσθην",
+    "english": "practice customarily; consider, believe (in); expect",
+    "transliteration": "nomizo",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "νομίζω",
+      "future": "νομιῶ",
+      "aorist": "ἐνόμισα",
+      "perfect": "νενόμικα",
+      "perfectMiddle": "νενόμισμαι",
+      "aoristPassive": "ἐνομίσθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "συμφέρω, συνοίσω, συνήνεγκα/συνήνεγκον, συνενήνοχα, συνενήνεγμαι, συνηνέχθην",
+    "english": "bring together; intrans.: fit, benefit, be useful; impersonal: it is useful, it is fitting",
+    "transliteration": "symphero",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "συμφέρω",
+      "future": "συνοίσω",
+      "aorist": "συνήνεγκα/συνήνεγκον",
+      "perfect": "συνενήνοχα",
+      "perfectMiddle": "συνενήνεγμαι",
+      "aoristPassive": "συνηνέχθην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "φαίνω, φανῶ, ἔφηνα, πέφηνα, πέφασμαι, ἐφάνην",
+    "english": "bring to light, show; middle: perfect future or aorist passive: appear (+ inf.); be evident (+ suppl. part.)",
+    "transliteration": "phaino",
+    "speechPart": "verb",
+    "principalParts": {
+      "present": "φαίνω",
+      "future": "φανῶ",
+      "aorist": "ἔφηνα",
+      "perfect": "πέφηνα",
+      "perfectMiddle": "πέφασμαι",
+      "aoristPassive": "ἐφάνην"
+    },
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἄξιος, ἀξία, ἄξιον",
+    "english": "worth; worthy",
+    "transliteration": "axios",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἀνάξιος, ἀνάξιον",
+    "english": "unworthy",
+    "transliteration": "anaxios",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "δυνατός, δυνατή, δυνατόν",
+    "english": "able; possible",
+    "transliteration": "dynatos",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἀδύνατος, ἀδύνατον",
+    "english": "unable; impossible",
+    "transliteration": "adynatos",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἱκανός, ἱκανή, ἱκανόν",
+    "english": "sufficient; capable",
+    "transliteration": "hikanos",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "φανερός, φανερά, φανερόν",
+    "english": "visible, evident, conspicuous",
+    "transliteration": "phaneros",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "φιλόσοφος, φιλόσοφον",
+    "english": "loving wisdom, philosophic; masc. subst.: philosopher",
+    "transliteration": "philosophos",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "βραχύς, βραχεῖα, βραχύ",
+    "english": "short; brief (§129)",
+    "transliteration": "brachys",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἡδύς, ἡδεῖα, ἡδύ",
+    "english": "sweet, pleasant (§129)",
+    "transliteration": "hedys",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "θρασύς, θρασεῖα, θρασύ",
+    "english": "bold, confident; rash, arrogant (§129)",
+    "transliteration": "thrasys",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ταχύς, ταχεῖα, ταχύ",
+    "english": "swift, fast (§129)",
+    "transliteration": "tachys",
+    "speechPart": "adjective",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "δή",
+    "english": "with commands and exhortations; now",
+    "transliteration": "de",
+    "speechPart": "postpositive particle",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἐάν, ἤν, ἄν",
+    "english": "if",
+    "transliteration": "ean, en, an",
+    "speechPart": "conjunction",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ἡδέως",
+    "english": "pleasantly; gladly",
+    "transliteration": "hedeos",
+    "speechPart": "adverb",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "μέντοι",
+    "english": "affirming: certainly, in truth, of course; adversative: however",
+    "transliteration": "mentoi",
+    "speechPart": "postpositive particle",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "νυν",
+    "english": "with commands and exhortations, then",
+    "transliteration": "nyn",
+    "speechPart": "postpositive enclitic particle",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "ὅπως",
+    "english": "introduces a Clause of Effort, (see) that (§120)",
+    "transliteration": "hopos",
+    "speechPart": "conjunction",
+    "gender": null,
+    "declension": null
+  },
+  {
+    "greek": "φανερῶς",
+    "english": "openly, plainly",
+    "transliteration": "phaneros",
+    "speechPart": "adverb",
+    "gender": null,
+    "declension": null
+  }
+]
   }

@@ -77,17 +77,17 @@ export default function VerbChart() {
           <VerbSquare endingList={verbData.Active.perfect.indicative} principleP={"P"}/>
           <VerbSquare endingList={verbData.Active.pluperfect.indicative} principleP={"P"}/>
           <div className='verb-table-row-label'>Subjunctive</div>
+          <VerbSquare endingList={verbData.Active.present.subjunctive} principleP={"p"}/>
           <VerbSquare/>
           <VerbSquare/>
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Active.aorist.subjunctive} principleP={"a"}/>
           <VerbSquare/>
           <VerbSquare/>
           <div className='verb-table-row-label'>Imper.</div>
+          <VerbSquare endingList={verbData.Active.present.imperative} principleP={"p"}/>
           <VerbSquare/>
           <VerbSquare/>
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Active.aorist.imperative} principleP={"a"}/>
           <VerbSquare/>
           <VerbSquare/>
           <div className='verb-table-row-label'>Infin.</div>
@@ -144,17 +144,17 @@ export default function VerbChart() {
           <VerbSquare endingList={verbData.Middle.perfect.indicative} principleP={"Pm"}/>
           <VerbSquare endingList={verbData.Middle.pluperfect.indicative} principleP={"Pm"}/>
           <div className='verb-table-row-label'>Subjunctive</div>
+          <VerbSquare endingList={verbData.Middle.present.subjunctive} principleP={"p"}/>
           <VerbSquare/>
           <VerbSquare/>
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Middle.aorist.subjunctive} principleP={"a"}/>
           <VerbSquare/>
           <VerbSquare/>
           <div className='verb-table-row-label'>Imper.</div>
+          <VerbSquare endingList={verbData.Middle.present.imperative} principleP={"p"}/>
           <VerbSquare/>
           <VerbSquare/>
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Middle.aorist.imperative} principleP={"a"}/>
           <VerbSquare/>
           <VerbSquare/>
           <div className='verb-table-row-label'>Infin.</div>
@@ -211,17 +211,17 @@ export default function VerbChart() {
           <VerbSquare endingList={verbData.Passive.perfect.indicative} principleP={"Pm"}/>
           <VerbSquare endingList={verbData.Passive.pluperfect.indicative} principleP={"Pm"}/>
           <div className='verb-table-row-label'>Subjunctive</div>
+          <VerbSquare endingList={verbData.Passive.present.subjunctive} principleP={"p"}/>
           <VerbSquare/>
           <VerbSquare/>
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Passive.aorist.subjunctive} principleP={"ap"}/>
           <VerbSquare/>
           <VerbSquare/>
           <div className='verb-table-row-label'>Imper.</div>
+          <VerbSquare endingList={verbData.Passive.present.imperative} principleP={"p"}/>
           <VerbSquare/>
           <VerbSquare/>
-          <VerbSquare/>
-          <VerbSquare/>
+          <VerbSquare endingList={verbData.Passive.aorist.imperative} principleP={"ap"}/>
           <VerbSquare/>
           <VerbSquare/>
           <div className='verb-table-row-label'>Infin.</div>
